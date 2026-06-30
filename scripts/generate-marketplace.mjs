@@ -92,6 +92,16 @@ function extractRepo(url) {
   return m ? `${m[1]}/${m[2]}` : null;
 }
 
+/** 从 GitHub URL 提取子路径（去掉 tree/main/ 等前缀），没有则返回 null */
+function extractPath(url) {
+  const m = url.match(/github\.com\/[^/]+\/[^/]+\/(?:tree|blob)\/(?:main|master)\/(.+)/);
+  if (!m) return null;
+  let p = m[1];
+  // Strip trailing SKILL.md
+  if (p.endsWith('/SKILL.md')) p = p.slice(0, -9);
+  return p || null;
+}
+
 // ── README fetching ──
 
 async function fetchReadme() {
@@ -233,7 +243,7 @@ async function main() {
       name: cleanName,
       description: e.description,
       tags: [...new Set(tags)],
-      ...(e.repo ? { repo: `https://github.com/${e.repo}` } : {}),
+      ...(e.repo ? { repo: e.repo, path: extractPath(e.url) ?? undefined } : {}),
       homepage: e.url,
       ...(e.author ? { author: e.author } : {}),
     };
