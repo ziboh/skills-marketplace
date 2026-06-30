@@ -86,22 +86,6 @@ function sectionTag(title) {
   return clean;
 }
 
-/** 从 GitHub URL 提取 owner/repo */
-function extractRepo(url) {
-  const m = url.match(/github\.com[/:]([^/]+)\/([^/#]+)/);
-  return m ? `${m[1]}/${m[2]}` : null;
-}
-
-/** 从 GitHub URL 提取子路径（去掉 tree/main/ 等前缀），没有则返回 null */
-function extractPath(url) {
-  const m = url.match(/github\.com\/[^/]+\/[^/]+\/(?:tree|blob)\/(?:main|master)\/(.+)/);
-  if (!m) return null;
-  let p = m[1];
-  // Strip trailing SKILL.md
-  if (p.endsWith('/SKILL.md')) p = p.slice(0, -9);
-  return p || null;
-}
-
 // ── README fetching ──
 
 async function fetchReadme() {
@@ -170,12 +154,12 @@ function parseEntries(content, sectionTitle) {
     const e = line.match(/^\s*-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*(?:\s*[-–—]\s*(.*))?$/);
     if (!e) continue;
 
-    const name = e[1].trim();
+    const display = e[1].trim();
     const url = e[2].trim();
     const desc = (e[3] || '').trim();
-    const repo = extractRepo(url);
+    const repo = display;
 
-    entries.push({ name, description: desc, url, repo, subCat });
+    entries.push({ name: display, description: desc, url, repo, subCat });
   }
 
   return entries;
@@ -185,12 +169,10 @@ function deduplicate(entries) {
   const seen = new Map();
   const result = [];
   for (const e of entries) {
-    const key = e.repo ? `${e.name}@${e.repo}` : e.name;
+    const key = e.name;
     const existing = seen.get(key);
     if (existing) {
-      // Merge sub-categories
       if (e.subCat && !existing.subCat) existing.subCat = e.subCat;
-      if (!existing.repo && e.repo) existing.repo = e.repo;
       continue;
     }
     seen.set(key, e);
@@ -245,8 +227,6 @@ async function main() {
       ...(e.author ? { author: e.author } : {}),
     };
   });
-
-  skills.sort((a, b) => a.name.localeCompare(b.name));
 
   const withR = skills.filter(s => s.repo).length;
   const out = {
