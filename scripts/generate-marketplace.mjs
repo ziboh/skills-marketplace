@@ -226,11 +226,14 @@ async function main() {
   const skills = deduped.map(e => {
     const tags = [e.org];
     if (e.subCat) tags.push(e.subCat);
+    // Clean name: remove "author/" prefix if present
+    const slashIdx = e.name.indexOf('/');
+    const cleanName = slashIdx > 0 ? e.name.slice(slashIdx + 1) : e.name;
     return {
-      name: e.name,
+      name: cleanName,
       description: e.description,
       tags: [...new Set(tags)],
-      repo: e.repo || undefined,
+      ...(e.repo ? { repo: `https://github.com/${e.repo}` } : {}),
       homepage: e.url,
       ...(e.author ? { author: e.author } : {}),
     };
