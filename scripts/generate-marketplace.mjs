@@ -86,6 +86,26 @@ function sectionTag(title) {
   return clean;
 }
 
+/** 从 URL 提取 repo (owner/repo)，支持 GitHub 和 officialskills.sh */
+function extractRepo(url) {
+  try {
+    const u = new URL(url);
+    const path = u.pathname.replace(/\/+$/, '').split('/').filter(Boolean);
+
+    if (u.hostname === 'github.com' && path.length >= 2) {
+      return `${path[0]}/${path[1]}`;
+    }
+
+    if (u.hostname === 'officialskills.sh' && path.length >= 2) {
+      return `${path[0]}/${path[1]}`;
+    }
+
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 // ── README fetching ──
 
 async function fetchReadme() {
@@ -157,7 +177,7 @@ function parseEntries(content, sectionTitle) {
     const display = e[1].trim();
     const url = e[2].trim();
     const desc = (e[3] || '').trim();
-    const repo = display;
+    const repo = extractRepo(url);
 
     entries.push({ name: display, description: desc, url, repo, subCat });
   }
@@ -214,21 +234,22 @@ async function main() {
   const deduped = deduplicate(raw);
   console.log(`After dedup: ${deduped.length} (${raw.length - deduped.length} removed)`);
 
-  // Build final skills list
-  const skills = deduped.map(e => {
-    const slashIdx = e.name.indexOf('/');
-    const cleanName = slashIdx > 0 ? e.name.slice(slashIdx + 1) : e.name;
-    return {
-      name: cleanName,
-      description: e.description,
-      tags: [],
-      ...(e.repo ? { repo: e.repo } : {}),
-      homepage: e.url,
-      ...(e.author ? { author: e.author } : {}),
-    };
-  });
+  // Build final skills list (only include entries with a valid repo)
+  const skills = deduped
+    .filter(e => e.repo)
+    .map(e => {
+      const slashIdx = e.name.indexOf('/');
+      const cleanName = slashIdx > 0 ? e.name.slice(slashIdx + 1) : e.name;
+      return {
+        name: cleanName,
+        description: e.description,
+        tags: [],
+        repo: e.repo,
+        homepage: e.url,
+        ...(e.author ? { author: e.author } : {}),
+      };
+    });
 
-  const withR = skills.filter(s => s.repo).length;
   const out = {
     name: 'awesome-agent-skills',
     owner: { name: 'VoltAgent', url: 'https://github.com/VoltAgent/awesome-agent-skills' },
@@ -238,7 +259,7 @@ async function main() {
     },
     generatedAt: new Date().toISOString(),
     total: skills.length,
-    stats: { withRepo: withR, withoutRepo: skills.length - withR },
+    stats: { withRepo: skills.length, withoutRepo: 0 },
     skills,
   };
 
@@ -246,7 +267,7 @@ async function main() {
 
   const kb = (fs.statSync(OUTPUT).size / 1024).toFixed(1);
   console.log(`\n✓ Written to ${OUTPUT}`);
-  console.log(`  ${skills.length} skills (${withR} with repo, ${skills.length - withR} without)`);
+  console.log(`  ${skills.length} skills (all with repo)`);
   console.log(`  ${kb} KB`);
 }
 
