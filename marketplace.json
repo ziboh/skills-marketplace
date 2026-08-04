@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-03T01:50:16.962Z",
-  "total": 1172,
+  "generatedAt": "2026-08-04T01:25:36.519Z",
+  "total": 1178,
   "stats": {
-    "withRepo": 1172,
+    "withRepo": 1178,
     "withoutRepo": 0
   },
   "skills": [
@@ -8029,6 +8029,20 @@
       "homepage": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
     },
     {
+      "name": "distribb-skill",
+      "description": "SEO articles, keyword research, CMS publishing, high-DR backlink exchange",
+      "tags": [],
+      "repo": "Bomx/distribb-skill",
+      "homepage": "https://github.com/Bomx/distribb-skill"
+    },
+    {
+      "name": "gtm-cofounder",
+      "description": "18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon",
+      "tags": [],
+      "repo": "AIDevGTM/gtm-cofounder",
+      "homepage": "https://github.com/AIDevGTM/gtm-cofounder"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -8820,6 +8834,13 @@
       "homepage": "https://github.com/csthink/dashmotion/tree/main/skills/dashmotion"
     },
     {
+      "name": "browser-act",
+      "description": "Automate authenticated browsers with extraction and human handoff",
+      "tags": [],
+      "repo": "browser-act/skills",
+      "homepage": "https://github.com/browser-act/skills/tree/main/browser-act"
+    },
+    {
       "name": "context-fundamentals",
       "description": "Understand what context is, why it matters, and the anatomy of context in agent systems",
       "tags": [],
@@ -8911,11 +8932,25 @@
       "homepage": "https://github.com/Panniantong/Agent-Reach"
     },
     {
+      "name": "emulo",
+      "description": "Mines AI coding logs into personal agent profiles",
+      "tags": [],
+      "repo": "ohad6k/emulo",
+      "homepage": "https://github.com/ohad6k/emulo"
+    },
+    {
       "name": "obsidian-knowledge-brain",
       "description": "Cross-session knowledge memory and rule evolution for AI coding agents",
       "tags": [],
       "repo": "Tubo2333/obsidian-knowledge-brain",
       "homepage": "https://github.com/Tubo2333/obsidian-knowledge-brain"
+    },
+    {
+      "name": "keep-the-why",
+      "description": "Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives",
+      "tags": [],
+      "repo": "oliver-zehentleitner/keep-the-why",
+      "homepage": "https://github.com/oliver-zehentleitner/keep-the-why"
     },
     {
       "name": "a-share-skill",
@@ -9140,6 +9175,13 @@
       "tags": [],
       "repo": "Alisa0808/vibe-creating-skill",
       "homepage": "https://github.com/Alisa0808/vibe-creating-skill"
+    },
+    {
+      "name": "video-router",
+      "description": "Route video requests through deterministic agent production stages",
+      "tags": [],
+      "repo": "Orkas-AI/Orkas-VideoStudio",
+      "homepage": "https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router"
     },
     {
       "name": "n8n-code-javascript",
