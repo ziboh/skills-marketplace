@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-07T02:05:52.438Z",
-  "total": 1178,
+  "generatedAt": "2026-08-08T00:51:17.132Z",
+  "total": 1179,
   "stats": {
-    "withRepo": 1178,
+    "withRepo": 1179,
     "withoutRepo": 0
   },
   "skills": [
@@ -8839,6 +8839,13 @@
       "tags": [],
       "repo": "browser-act/skills",
       "homepage": "https://github.com/browser-act/skills/tree/main/browser-act"
+    },
+    {
+      "name": "suede-creator-skills",
+      "description": "Agent orchestration, code review grading, AI eval, creator tooling skills.",
+      "tags": [],
+      "repo": "JasonColapietro/suede-creator-skills",
+      "homepage": "https://github.com/JasonColapietro/suede-creator-skills"
     },
     {
       "name": "context-fundamentals",
