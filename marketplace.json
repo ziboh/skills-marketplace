@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-12T01:02:08.747Z",
-  "total": 1179,
+  "generatedAt": "2026-08-13T01:03:31.224Z",
+  "total": 1187,
   "stats": {
-    "withRepo": 1179,
+    "withRepo": 1187,
     "withoutRepo": 0
   },
   "skills": [
@@ -8029,6 +8029,13 @@
       "homepage": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
     },
     {
+      "name": "humanizer-ru",
+      "description": "Removes AI-writing markers from Russian text",
+      "tags": [],
+      "repo": "Vladimir-Human/humanizer-ru",
+      "homepage": "https://github.com/Vladimir-Human/humanizer-ru"
+    },
+    {
       "name": "distribb-skill",
       "description": "SEO articles, keyword research, CMS publishing, high-DR backlink exchange",
       "tags": [],
@@ -8286,6 +8293,13 @@
       "tags": [],
       "repo": "Sendmux/skills",
       "homepage": "https://github.com/Sendmux/skills"
+    },
+    {
+      "name": "finding-unknowns-skills",
+      "description": "8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format",
+      "tags": [],
+      "repo": "Neeeophytee/finding-unknowns-skills",
+      "homepage": "https://github.com/Neeeophytee/finding-unknowns-skills"
     },
     {
       "name": "skill-rails-upgrade",
@@ -8834,6 +8848,13 @@
       "homepage": "https://github.com/csthink/dashmotion/tree/main/skills/dashmotion"
     },
     {
+      "name": "github-image-upload",
+      "description": "Attach screenshots, PDFs, logs, zips, and videos to GitHub PRs, issues, and comments, returning canonical user-attachments URLs. GitHub has no public attachment-upload API. Works with Claude Code, Codex, Cursor, and Gemini CLI",
+      "tags": [],
+      "repo": "drogers0/gh-image",
+      "homepage": "https://github.com/drogers0/gh-image/tree/main/skills/github-image-upload"
+    },
+    {
       "name": "browser-act",
       "description": "Automate authenticated browsers with extraction and human handoff",
       "tags": [],
@@ -8846,6 +8867,13 @@
       "tags": [],
       "repo": "JasonColapietro/suede-creator-skills",
       "homepage": "https://github.com/JasonColapietro/suede-creator-skills"
+    },
+    {
+      "name": "motion-lexicon",
+      "description": "Build and review product motion with installable React components",
+      "tags": [],
+      "repo": "Ryan-yang125/motion-lexicon",
+      "homepage": "https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon"
     },
     {
       "name": "context-fundamentals",
@@ -8939,6 +8967,13 @@
       "homepage": "https://github.com/Panniantong/Agent-Reach"
     },
     {
+      "name": "mfs",
+      "description": "`mfs-find` / `mfs-ingest` skills that search, grep and read across your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace; self-hosted with local ONNX embeddings",
+      "tags": [],
+      "repo": "zilliztech/mfs",
+      "homepage": "https://github.com/zilliztech/mfs"
+    },
+    {
       "name": "emulo",
       "description": "Mines AI coding logs into personal agent profiles",
       "tags": [],
@@ -8951,6 +8986,20 @@
       "tags": [],
       "repo": "Tubo2333/obsidian-knowledge-brain",
       "homepage": "https://github.com/Tubo2333/obsidian-knowledge-brain"
+    },
+    {
+      "name": "agent-knowledge",
+      "description": "Maintains portable, cited agent knowledge bases in plain Markdown",
+      "tags": [],
+      "repo": "stjbrown/agent-knowledge",
+      "homepage": "https://github.com/stjbrown/agent-knowledge"
+    },
+    {
+      "name": "skills-janitor",
+      "description": "Token audit, usage tracking, and swipe-to-delete skill pruning.",
+      "tags": [],
+      "repo": "khendzel/skills-janitor",
+      "homepage": "https://github.com/khendzel/skills-janitor"
     },
     {
       "name": "keep-the-why",
@@ -9182,6 +9231,13 @@
       "tags": [],
       "repo": "Alisa0808/vibe-creating-skill",
       "homepage": "https://github.com/Alisa0808/vibe-creating-skill"
+    },
+    {
+      "name": "optim-agent",
+      "description": "Agent-guided optimization for measurable system tuning.",
+      "tags": [],
+      "repo": "Optim-Agent/optim-agent",
+      "homepage": "https://github.com/Optim-Agent/optim-agent"
     },
     {
       "name": "video-router",
