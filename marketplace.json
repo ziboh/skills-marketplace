@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-13T01:03:31.224Z",
-  "total": 1187,
+  "generatedAt": "2026-08-14T01:03:01.512Z",
+  "total": 1195,
   "stats": {
-    "withRepo": 1187,
+    "withRepo": 1195,
     "withoutRepo": 0
   },
   "skills": [
@@ -8029,6 +8029,20 @@
       "homepage": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
     },
     {
+      "name": "goose-skills",
+      "description": "125 growth and GTM skills: ads, content, lead gen, SEO",
+      "tags": [],
+      "repo": "gooseworks-ai/goose-skills",
+      "homepage": "https://github.com/gooseworks-ai/goose-skills"
+    },
+    {
+      "name": "linkedin-skills",
+      "description": "LinkedIn marketing skills: viral hooks, comment drafting, algorithm audit, humanizer",
+      "tags": [],
+      "repo": "sergebulaev/linkedin-skills",
+      "homepage": "https://github.com/sergebulaev/linkedin-skills"
+    },
+    {
       "name": "humanizer-ru",
       "description": "Removes AI-writing markers from Russian text",
       "tags": [],
@@ -8293,6 +8307,13 @@
       "tags": [],
       "repo": "Sendmux/skills",
       "homepage": "https://github.com/Sendmux/skills"
+    },
+    {
+      "name": "zapier-mcp",
+      "description": "Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.",
+      "tags": [],
+      "repo": "zapier/zapier-mcp",
+      "homepage": "https://github.com/zapier/zapier-mcp"
     },
     {
       "name": "finding-unknowns-skills",
@@ -8846,6 +8867,41 @@
       "tags": [],
       "repo": "csthink/dashmotion",
       "homepage": "https://github.com/csthink/dashmotion/tree/main/skills/dashmotion"
+    },
+    {
+      "name": "fractal",
+      "description": "Bounded hierarchical agent loops in isolated git worktrees",
+      "tags": [],
+      "repo": "plasma-ai/fractal",
+      "homepage": "https://github.com/plasma-ai/fractal/tree/main/fractal/skills/fractal"
+    },
+    {
+      "name": "browser-relay",
+      "description": "Control an existing logged-in Chrome without stealing focus",
+      "tags": [],
+      "repo": "reliefeai/browser-relay",
+      "homepage": "https://github.com/reliefeai/browser-relay/tree/v1.4.1/skills/browser-relay"
+    },
+    {
+      "name": "squirrelscan",
+      "description": "Audits websites for SEO, performance, security, accessibility and returns fixes",
+      "tags": [],
+      "repo": "squirrelscan/squirrelscan",
+      "homepage": "https://github.com/squirrelscan/squirrelscan/tree/main/skills"
+    },
+    {
+      "name": "markstream-install",
+      "description": "Install streaming Markdown renderers across five frontend frameworks",
+      "tags": [],
+      "repo": "Simon-He95/markstream-vue",
+      "homepage": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install"
+    },
+    {
+      "name": "go-agent-skills",
+      "description": "Curated Go skills for code review, concurrency, testing, and architecture",
+      "tags": [],
+      "repo": "eduardo-sl/go-agent-skills",
+      "homepage": "https://github.com/eduardo-sl/go-agent-skills"
     },
     {
       "name": "github-image-upload",
