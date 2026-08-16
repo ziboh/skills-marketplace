@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-15T00:37:37.500Z",
-  "total": 1195,
+  "generatedAt": "2026-08-16T00:39:35.710Z",
+  "total": 1196,
   "stats": {
-    "withRepo": 1195,
+    "withRepo": 1196,
     "withoutRepo": 0
   },
   "skills": [
@@ -9287,6 +9287,13 @@
       "tags": [],
       "repo": "Alisa0808/vibe-creating-skill",
       "homepage": "https://github.com/Alisa0808/vibe-creating-skill"
+    },
+    {
+      "name": "claude-real-video",
+      "description": "Scene-aware keyframes plus transcripts so any LLM watches videos",
+      "tags": [],
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "homepage": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
     },
     {
       "name": "optim-agent",
