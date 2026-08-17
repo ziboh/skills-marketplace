@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-16T00:39:35.710Z",
-  "total": 1196,
+  "generatedAt": "2026-08-17T00:37:54.902Z",
+  "total": 1199,
   "stats": {
-    "withRepo": 1196,
+    "withRepo": 1199,
     "withoutRepo": 0
   },
   "skills": [
@@ -8309,6 +8309,13 @@
       "homepage": "https://github.com/Sendmux/skills"
     },
     {
+      "name": "youtube-fetcher",
+      "description": "Create Obsidian-ready Markdown notes from YouTube videos",
+      "tags": [],
+      "repo": "JimmySadek/youtube-fetcher-to-markdown",
+      "homepage": "https://github.com/JimmySadek/youtube-fetcher-to-markdown"
+    },
+    {
       "name": "zapier-mcp",
       "description": "Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.",
       "tags": [],
@@ -9308,6 +9315,20 @@
       "tags": [],
       "repo": "Orkas-AI/Orkas-VideoStudio",
       "homepage": "https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router"
+    },
+    {
+      "name": "youtube-skills",
+      "description": "Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.",
+      "tags": [],
+      "repo": "ZeroPointRepo/youtube-skills",
+      "homepage": "https://github.com/ZeroPointRepo/youtube-skills"
+    },
+    {
+      "name": "rea",
+      "description": "Reverse-engineer binaries, applications, and runtimes with REA",
+      "tags": [],
+      "repo": "morluto/rea",
+      "homepage": "https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything"
     },
     {
       "name": "n8n-code-javascript",
