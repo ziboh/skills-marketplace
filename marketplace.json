@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-18T00:37:21.680Z",
-  "total": 1199,
+  "generatedAt": "2026-08-19T00:37:46.095Z",
+  "total": 1209,
   "stats": {
-    "withRepo": 1199,
+    "withRepo": 1209,
     "withoutRepo": 0
   },
   "skills": [
@@ -549,6 +549,14 @@
       "repo": "LambdaTest/agent-skills",
       "homepage": "https://github.com/LambdaTest/agent-skills/tree/main/xunit-skill",
       "author": "TestMu AI"
+    },
+    {
+      "name": "skills",
+      "description": "Agent skills from [Modem](https://modem.dev/go/awesome-agent-skills), starting with write-discoverable-code",
+      "tags": [],
+      "repo": "modem-dev/skills",
+      "homepage": "https://github.com/modem-dev/skills",
+      "author": "Modem Dev"
     },
     {
       "name": "zero",
@@ -8309,6 +8317,13 @@
       "homepage": "https://github.com/Sendmux/skills"
     },
     {
+      "name": "cc-thinking-skills",
+      "description": "28 eval-informed mental models for decisions, debugging, systems, and strategy",
+      "tags": [],
+      "repo": "tjboudreaux/cc-thinking-skills",
+      "homepage": "https://github.com/tjboudreaux/cc-thinking-skills"
+    },
+    {
       "name": "youtube-fetcher",
       "description": "Create Obsidian-ready Markdown notes from YouTube videos",
       "tags": [],
@@ -8925,11 +8940,25 @@
       "homepage": "https://github.com/browser-act/skills/tree/main/browser-act"
     },
     {
+      "name": "auteur",
+      "description": "Builds websites gated by an anti-slop linter and motion QA",
+      "tags": [],
+      "repo": "agiwhitelist/auteur",
+      "homepage": "https://github.com/agiwhitelist/auteur"
+    },
+    {
       "name": "suede-creator-skills",
       "description": "Agent orchestration, code review grading, AI eval, creator tooling skills.",
       "tags": [],
       "repo": "JasonColapietro/suede-creator-skills",
       "homepage": "https://github.com/JasonColapietro/suede-creator-skills"
+    },
+    {
+      "name": "superdesign-skill",
+      "description": "Creates design systems from existing codebases and iterates UI drafts",
+      "tags": [],
+      "repo": "superdesigndev/superdesign-skill",
+      "homepage": "https://github.com/superdesigndev/superdesign-skill"
     },
     {
       "name": "motion-lexicon",
@@ -9315,6 +9344,48 @@
       "tags": [],
       "repo": "Orkas-AI/Orkas-VideoStudio",
       "homepage": "https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router"
+    },
+    {
+      "name": "perso-dubbing",
+      "description": "Video translator: dubbing, lip-sync, subtitles, and short clips",
+      "tags": [],
+      "repo": "perso-ai/perso-dubbing-plugin",
+      "homepage": "https://github.com/perso-ai/perso-dubbing-plugin"
+    },
+    {
+      "name": "regenerative-project-design-orchestrator",
+      "description": "Orchestrates proportionate regenerative learning projects with safeguards and stewardship",
+      "tags": [],
+      "repo": "GarethManning/education-agent-skills",
+      "homepage": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/regenerative-project-design-orchestrator"
+    },
+    {
+      "name": "learning-target-authoring-guide",
+      "description": "Authors observable competency learning targets across developmental bands",
+      "tags": [],
+      "repo": "GarethManning/education-agent-skills",
+      "homepage": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/learning-target-authoring-guide"
+    },
+    {
+      "name": "assessment-validity-checker",
+      "description": "Audits assessments for validity, reliability, and learning alignment",
+      "tags": [],
+      "repo": "GarethManning/education-agent-skills",
+      "homepage": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/assessment-validity-checker"
+    },
+    {
+      "name": "progressive-hint-ladder",
+      "description": "Provides graduated hints while preserving learner thinking and agency",
+      "tags": [],
+      "repo": "GarethManning/education-agent-skills",
+      "homepage": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder"
+    },
+    {
+      "name": "competency-unpacker",
+      "description": "Unpacks broad competencies into assessable sub-skills and success criteria",
+      "tags": [],
+      "repo": "GarethManning/education-agent-skills",
+      "homepage": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker"
     },
     {
       "name": "youtube-skills",
