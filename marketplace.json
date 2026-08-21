@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-20T00:37:38.908Z",
-  "total": 1209,
+  "generatedAt": "2026-08-21T00:40:35.629Z",
+  "total": 1191,
   "stats": {
-    "withRepo": 1209,
+    "withRepo": 1191,
     "withoutRepo": 0
   },
   "skills": [
@@ -3815,11 +3815,11 @@
       "author": "Figma"
     },
     {
-      "name": "ab-test-setup",
+      "name": "ab-testing",
       "description": "Plan and implement A/B tests or experiments for any digital experience",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-test-setup",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing",
       "author": "Corey Haines"
     },
     {
@@ -3839,11 +3839,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "analytics-tracking",
+      "name": "analytics",
       "description": "Set up and audit analytics tracking and measurement pipelines",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics-tracking",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics",
       "author": "Corey Haines"
     },
     {
@@ -3863,11 +3863,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "competitor-alternatives",
+      "name": "competitors",
       "description": "Build competitor comparison and alternative landing pages for SEO",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitors",
       "author": "Corey Haines"
     },
     {
@@ -3895,35 +3895,27 @@
       "author": "Corey Haines"
     },
     {
-      "name": "email-sequence",
+      "name": "emails",
       "description": "Build email sequences, drip campaigns, and lifecycle email flows",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/email-sequence",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails",
       "author": "Corey Haines"
     },
     {
-      "name": "form-cro",
-      "description": "Optimize lead capture and contact forms to improve conversion",
-      "tags": [],
-      "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/form-cro",
-      "author": "Corey Haines"
-    },
-    {
-      "name": "free-tool-strategy",
+      "name": "free-tools",
       "description": "Plan and build free tools for lead generation and SEO value",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tools",
       "author": "Corey Haines"
     },
     {
-      "name": "launch-strategy",
+      "name": "launch",
       "description": "Plan product launches, feature announcements, and go-to-market strategies",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch-strategy",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch",
       "author": "Corey Haines"
     },
     {
@@ -3943,59 +3935,59 @@
       "author": "Corey Haines"
     },
     {
-      "name": "onboarding-cro",
+      "name": "onboarding",
       "description": "Optimize post-signup onboarding and user activation to improve time-to-value",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding-cro",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding",
       "author": "Corey Haines"
     },
     {
-      "name": "page-cro",
-      "description": "Improve conversion rates on any marketing page including homepages and landing pages",
+      "name": "cro",
+      "description": "Improve conversion rates on any marketing page or form, including homepages, landing pages, and contact forms",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/page-cro",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro",
       "author": "Corey Haines"
     },
     {
-      "name": "paid-ads",
+      "name": "ads",
       "description": "Create and optimize paid campaigns on Google, Meta, LinkedIn, and more",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/paid-ads",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ads",
       "author": "Corey Haines"
     },
     {
-      "name": "paywall-upgrade-cro",
+      "name": "paywalls",
       "description": "Design and optimize upgrade screens, paywalls, and upsell modals",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywall-upgrade-cro",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywalls",
       "author": "Corey Haines"
     },
     {
-      "name": "popup-cro",
+      "name": "popups",
       "description": "Create and optimize popups, modals, and slide-ins for conversions",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/popup-cro",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/popups",
       "author": "Corey Haines"
     },
     {
-      "name": "pricing-strategy",
+      "name": "pricing",
       "description": "Define pricing, packaging, and monetization strategy for SaaS products",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing-strategy",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing",
       "author": "Corey Haines"
     },
     {
-      "name": "product-marketing-context",
+      "name": "product-marketing",
       "description": "Create and maintain a product marketing context document for consistent messaging",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing-context",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing",
       "author": "Corey Haines"
     },
     {
@@ -4007,11 +3999,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "referral-program",
+      "name": "referrals",
       "description": "Design and optimize referral, affiliate, and word-of-mouth programs",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/referral-program",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/referrals",
       "author": "Corey Haines"
     },
     {
@@ -4031,11 +4023,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "schema-markup",
+      "name": "schema",
       "description": "Add and optimize schema markup and structured data for better SEO",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema-markup",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema",
       "author": "Corey Haines"
     },
     {
@@ -4047,11 +4039,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "signup-flow-cro",
+      "name": "signup",
       "description": "Optimize signup, registration, and trial activation flows for higher conversion",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup-flow-cro",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup",
       "author": "Corey Haines"
     },
     {
@@ -4063,11 +4055,11 @@
       "author": "Corey Haines"
     },
     {
-      "name": "social-content",
+      "name": "social",
       "description": "Create and schedule social media content for LinkedIn, Twitter/X, and Instagram",
       "tags": [],
       "repo": "coreyhaines31/marketingskills",
-      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/social-content",
+      "homepage": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/social",
       "author": "Corey Haines"
     },
     {
@@ -6487,11 +6479,11 @@
       "author": "MongoDB"
     },
     {
-      "name": "redis-development",
+      "name": "redis-core",
       "description": "Redis development best practices — data structures, query engine, vector search, caching, and performance optimization.",
       "tags": [],
       "repo": "redis/agent-skills",
-      "homepage": "https://github.com/redis/agent-skills/tree/main/skills/redis-development",
+      "homepage": "https://github.com/redis/agent-skills/tree/main/skills/redis-core",
       "author": "Redis"
     },
     {
@@ -8072,6 +8064,13 @@
       "homepage": "https://github.com/AIDevGTM/gtm-cofounder"
     },
     {
+      "name": "superCMO-skills",
+      "description": "Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0",
+      "tags": [],
+      "repo": "SupercmoHQ/superCMO-skills",
+      "homepage": "https://github.com/SupercmoHQ/superCMO-skills"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -8156,13 +8155,6 @@
       "homepage": "https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md"
     },
     {
-      "name": "sharing-skills",
-      "description": "Distribute and communicate capabilities",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/sharing-skills/SKILL.md"
-    },
-    {
       "name": "using-superpowers",
       "description": "Leverage core platform capabilities",
       "tags": [],
@@ -8205,13 +8197,6 @@
       "homepage": "https://github.com/wrsmith108/linear-claude-skill"
     },
     {
-      "name": "readme",
-      "description": "Generate comprehensive project documentation",
-      "tags": [],
-      "repo": "Shpigford/skills",
-      "homepage": "https://github.com/Shpigford/skills/tree/main/readme"
-    },
-    {
       "name": "claude-memory-skill",
       "description": "Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence",
       "tags": [],
@@ -8219,11 +8204,11 @@
       "homepage": "https://github.com/hanfang/claude-memory-skill"
     },
     {
-      "name": "kreuzberg",
-      "description": "Extract text, tables, and metadata from 62+ document formats",
+      "name": "xberg",
+      "description": "Extract text, tables, and metadata from 101+ document formats",
       "tags": [],
       "repo": "kreuzberg-dev/kreuzberg",
-      "homepage": "https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg"
+      "homepage": "https://github.com/kreuzberg-dev/kreuzberg/tree/main/plugin/skills/xberg"
     },
     {
       "name": "ResumeSkills",
@@ -8350,13 +8335,6 @@
       "tags": [],
       "repo": "robzolkos/skill-rails-upgrade",
       "homepage": "https://github.com/robzolkos/skill-rails-upgrade"
-    },
-    {
-      "name": "screenshots",
-      "description": "Generate marketing screenshots with Playwright",
-      "tags": [],
-      "repo": "Shpigford/skills",
-      "homepage": "https://github.com/Shpigford/skills/tree/main/screenshots"
     },
     {
       "name": "terraform-skill",
@@ -8492,27 +8470,6 @@
       "homepage": "https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md"
     },
     {
-      "name": "root-cause-tracing",
-      "description": "Investigate and identify fundamental problems",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/root-cause-tracing/SKILL.md"
-    },
-    {
-      "name": "testing-skills-with-subagents",
-      "description": "Collaborative testing approaches",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/testing-skills-with-subagents/SKILL.md"
-    },
-    {
-      "name": "testing-anti-patterns",
-      "description": "Identify ineffective testing practices",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/testing-anti-patterns/SKILL.md"
-    },
-    {
       "name": "finishing-a-development-branch",
       "description": "Complete Git code branches",
       "tags": [],
@@ -8546,20 +8503,6 @@
       "tags": [],
       "repo": "obra/superpowers",
       "homepage": "https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md"
-    },
-    {
-      "name": "condition-based-waiting",
-      "description": "Manage conditional pauses or delays",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md"
-    },
-    {
-      "name": "commands",
-      "description": "Create and manage command structures",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/tree/main/skills/commands"
     },
     {
       "name": "writing-skills",
@@ -8667,11 +8610,11 @@
       "homepage": "https://github.com/testdino-hq/playwright-skill"
     },
     {
-      "name": "code-review",
+      "name": "review",
       "description": "Comprehensive PR code review using specialized agents: bug-hunter, security-auditor, code-quality-reviewer, contracts-reviewer, historical-context-reviewer, test-coverage-reviewer",
       "tags": [],
       "repo": "NeoLabHQ/context-engineering-kit",
-      "homepage": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/code-review"
+      "homepage": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/review"
     },
     {
       "name": "reflexion",
@@ -8709,60 +8652,11 @@
       "homepage": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen"
     },
     {
-      "name": "eval-audit",
-      "description": "Audit LLM eval pipelines and surface problems",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/eval-audit"
-    },
-    {
-      "name": "error-analysis",
-      "description": "Systematically identify failure modes in LLM pipelines",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/error-analysis"
-    },
-    {
-      "name": "generate-synthetic-data",
-      "description": "Create diverse synthetic test inputs for LLM evals",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/generate-synthetic-data"
-    },
-    {
-      "name": "write-judge-prompt",
-      "description": "Design LLM-as-Judge evaluators for subjective criteria",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/write-judge-prompt"
-    },
-    {
-      "name": "validate-evaluator",
-      "description": "Calibrate LLM judges against human labels",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/validate-evaluator"
-    },
-    {
-      "name": "evaluate-rag",
-      "description": "Evaluate RAG retrieval and generation quality",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/evaluate-rag"
-    },
-    {
       "name": "moyu",
       "description": "Anti-over-engineering skill with 5 variants and 10 platforms",
       "tags": [],
       "repo": "uucz/moyu",
       "homepage": "https://github.com/uucz/moyu"
-    },
-    {
-      "name": "build-review-interface",
-      "description": "Build annotation interfaces for reviewing LLM traces",
-      "tags": [],
-      "repo": "hamelsmu/prompts",
-      "homepage": "https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/build-review-interface"
     },
     {
       "name": "skills",
@@ -8812,13 +8706,6 @@
       "tags": [],
       "repo": "ethos-link/rails-conventions",
       "homepage": "https://github.com/ethos-link/rails-conventions"
-    },
-    {
-      "name": "agent-skill-bus",
-      "description": "Self-improving task orchestration for AI agent systems",
-      "tags": [],
-      "repo": "ShunsukeHayashi/agent-skill-bus",
-      "homepage": "https://github.com/ShunsukeHayashi/agent-skill-bus"
     },
     {
       "name": "skills",
@@ -9150,25 +9037,11 @@
       "homepage": "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen"
     },
     {
-      "name": "claudisms",
-      "description": "SMS messaging integration",
-      "tags": [],
-      "repo": "jeffersonwarrior/claudisms",
-      "homepage": "https://github.com/jeffersonwarrior/claudisms"
-    },
-    {
       "name": "security-bluebook-builder",
       "description": "Build security Blue Books for sensitive apps",
       "tags": [],
       "repo": "SHADOWPR0/security-bluebook-builder",
       "homepage": "https://github.com/SHADOWPR0/security-bluebook-builder"
-    },
-    {
-      "name": "defense-in-depth",
-      "description": "Multi-layered security approaches",
-      "tags": [],
-      "repo": "obra/superpowers",
-      "homepage": "https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md"
     },
     {
       "name": "Claude-Ally-Health",
