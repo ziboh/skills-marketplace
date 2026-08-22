@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-21T00:40:35.629Z",
-  "total": 1191,
+  "generatedAt": "2026-08-22T00:37:29.700Z",
+  "total": 1195,
   "stats": {
-    "withRepo": 1191,
+    "withRepo": 1195,
     "withoutRepo": 0
   },
   "skills": [
@@ -8064,6 +8064,13 @@
       "homepage": "https://github.com/AIDevGTM/gtm-cofounder"
     },
     {
+      "name": "mailtrap-skills",
+      "description": "Send emails via API/SMTP with sandbox testing",
+      "tags": [],
+      "repo": "mailtrap/mailtrap-skills",
+      "homepage": "https://github.com/mailtrap/mailtrap-skills"
+    },
+    {
       "name": "superCMO-skills",
       "description": "Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0",
       "tags": [],
@@ -8328,6 +8335,13 @@
       "tags": [],
       "repo": "Neeeophytee/finding-unknowns-skills",
       "homepage": "https://github.com/Neeeophytee/finding-unknowns-skills"
+    },
+    {
+      "name": "strategy-consulting-visualization",
+      "description": "McKinsey-style charts and consulting slide decks",
+      "tags": [],
+      "repo": "kgraph57/mckinsey-style-visualization-skill",
+      "homepage": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
     },
     {
       "name": "skill-rails-upgrade",
@@ -8855,6 +8869,13 @@
       "homepage": "https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon"
     },
     {
+      "name": "aeon",
+      "description": "70+ Claude Code skills + autonomous GitHub Actions agent framework",
+      "tags": [],
+      "repo": "aeonfun/aeon",
+      "homepage": "https://github.com/aeonfun/aeon"
+    },
+    {
       "name": "context-fundamentals",
       "description": "Understand what context is, why it matters, and the anatomy of context in agent systems",
       "tags": [],
@@ -8986,6 +9007,13 @@
       "tags": [],
       "repo": "oliver-zehentleitner/keep-the-why",
       "homepage": "https://github.com/oliver-zehentleitner/keep-the-why"
+    },
+    {
+      "name": "claude-mem",
+      "description": "Compresses and persists agent memory across sessions",
+      "tags": [],
+      "repo": "thedotmack/claude-mem",
+      "homepage": "https://github.com/thedotmack/claude-mem"
     },
     {
       "name": "a-share-skill",
