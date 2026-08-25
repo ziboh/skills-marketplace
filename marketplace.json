@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-24T00:39:16.395Z",
-  "total": 1205,
+  "generatedAt": "2026-08-25T00:39:08.433Z",
+  "total": 1206,
   "stats": {
-    "withRepo": 1205,
+    "withRepo": 1206,
     "withoutRepo": 0
   },
   "skills": [
@@ -8902,6 +8902,13 @@
       "tags": [],
       "repo": "aeonfun/aeon",
       "homepage": "https://github.com/aeonfun/aeon"
+    },
+    {
+      "name": "vibe-coding-prompt-template",
+      "description": "Plan MVPs into PRD, tech design, and AGENTS.md",
+      "tags": [],
+      "repo": "KhazP/vibe-coding-prompt-template",
+      "homepage": "https://github.com/KhazP/vibe-coding-prompt-template"
     },
     {
       "name": "skills-library",
