@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-25T00:39:08.433Z",
-  "total": 1206,
+  "generatedAt": "2026-08-26T00:39:47.900Z",
+  "total": 1211,
   "stats": {
-    "withRepo": 1206,
+    "withRepo": 1211,
     "withoutRepo": 0
   },
   "skills": [
@@ -8078,11 +8078,25 @@
       "homepage": "https://github.com/mailtrap/mailtrap-skills"
     },
     {
+      "name": "dark-psychology-skills",
+      "description": "13 sales and negotiation skills for agents distilled from 36 books (CIA psyop manuals, FBI behavioral research, propaganda science, persuasion classics); every tactic passes an honest-influence filter: it must still work when fully disclosed",
+      "tags": [],
+      "repo": "YannisKiefer/dark-psychology-skills",
+      "homepage": "https://github.com/YannisKiefer/dark-psychology-skills"
+    },
+    {
       "name": "superCMO-skills",
       "description": "Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0",
       "tags": [],
       "repo": "SupercmoHQ/superCMO-skills",
       "homepage": "https://github.com/SupercmoHQ/superCMO-skills"
+    },
+    {
+      "name": "sandbase-skills/multi-source-search",
+      "description": "Evidence-led multi-source research with offline validation",
+      "tags": [],
+      "repo": "sandbaseai/sandbase-skills",
+      "homepage": "https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search"
     },
     {
       "name": "nutrient-agent-skill",
@@ -9002,6 +9016,13 @@
       "homepage": "https://github.com/sametbrr/llm-wiki-manager"
     },
     {
+      "name": "perfectify",
+      "description": "Self-improving control kernel (DAGx AGI Kernel): hard approval stops for irreversible actions, evidence-gated completion, and a self-learning playbook with drift governance. Behaviorally evaluated; works across Claude Code, Codex, Hermes, and OpenCode",
+      "tags": [],
+      "repo": "dankofly/perfectify",
+      "homepage": "https://github.com/dankofly/perfectify"
+    },
+    {
       "name": "Agent-Reach",
       "description": "Multi-platform search CLI for 17 sites including Chinese platforms",
       "tags": [],
@@ -9077,6 +9098,13 @@
       "tags": [],
       "repo": "thedotmack/claude-mem",
       "homepage": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "name": "deja-history",
+      "description": "Searches your own past sessions across 20 coding agents",
+      "tags": [],
+      "repo": "vshulcz/deja-vu",
+      "homepage": "https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history"
     },
     {
       "name": "a-share-skill",
@@ -9378,6 +9406,13 @@
       "tags": [],
       "repo": "zincio/skills",
       "homepage": "https://github.com/zincio/skills/tree/master/skills/universal-checkout"
+    },
+    {
+      "name": "humanize-chinese",
+      "description": "Detect and rewrite AI-generated Chinese text, fully offline, no LLM",
+      "tags": [],
+      "repo": "swaylq/humanize-chinese",
+      "homepage": "https://github.com/swaylq/humanize-chinese"
     },
     {
       "name": "n8n-code-javascript",
