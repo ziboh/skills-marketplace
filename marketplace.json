@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-26T00:39:47.900Z",
-  "total": 1211,
+  "generatedAt": "2026-08-27T05:41:59.718Z",
+  "total": 1213,
   "stats": {
-    "withRepo": 1211,
+    "withRepo": 1213,
     "withoutRepo": 0
   },
   "skills": [
@@ -8930,6 +8930,20 @@
       "tags": [],
       "repo": "lindblomstefan/skills-library",
       "homepage": "https://github.com/lindblomstefan/skills-library"
+    },
+    {
+      "name": "agents",
+      "description": "Reusable standards and workflow skills for AI coding agents",
+      "tags": [],
+      "repo": "scarletkc/agents",
+      "homepage": "https://github.com/scarletkc/agents"
+    },
+    {
+      "name": "spec-writer",
+      "description": "Turns vague requests into spec, plan, and tasks",
+      "tags": [],
+      "repo": "dannwaneri/spec-writer",
+      "homepage": "https://github.com/dannwaneri/spec-writer"
     },
     {
       "name": "context-fundamentals",
