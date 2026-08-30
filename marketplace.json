@@ -8,7 +8,7 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-08-29T04:44:59.914Z",
+  "generatedAt": "2026-08-30T02:20:53.815Z",
   "total": 1213,
   "stats": {
     "withRepo": 1213,
@@ -7910,11 +7910,11 @@
       "homepage": "https://github.com/qdrant/skills"
     },
     {
-      "name": "ai-marketing-skills",
+      "name": "ai-marketing-claude-code-skills",
       "description": "17 marketing frameworks for cold outreach, homepage audit, social cards, and more",
       "tags": [],
-      "repo": "BrianRWagner/ai-marketing-skills",
-      "homepage": "https://github.com/BrianRWagner/ai-marketing-skills"
+      "repo": "BrianRWagner/ai-marketing-claude-code-skills",
+      "homepage": "https://github.com/BrianRWagner/ai-marketing-claude-code-skills"
     },
     {
       "name": "claude-seo",
@@ -8015,11 +8015,11 @@
       "homepage": "https://github.com/indranilbanerjee/digital-marketing-pro"
     },
     {
-      "name": "NotFair",
+      "name": "notfair-plugin",
       "description": "SEO, GEO, Google Ads, and Meta Ads skills with live data",
       "tags": [],
-      "repo": "nowork-studio/NotFair",
-      "homepage": "https://github.com/nowork-studio/NotFair"
+      "repo": "nowork-studio/notfair-plugin",
+      "homepage": "https://github.com/nowork-studio/notfair-plugin"
     },
     {
       "name": "aaron-marketing-skills",
@@ -8235,8 +8235,8 @@
       "name": "xberg",
       "description": "Extract text, tables, and metadata from 101+ document formats",
       "tags": [],
-      "repo": "kreuzberg-dev/kreuzberg",
-      "homepage": "https://github.com/kreuzberg-dev/kreuzberg/tree/main/plugin/skills/xberg"
+      "repo": "xberg-io/xberg",
+      "homepage": "https://github.com/xberg-io/xberg/tree/main/plugin/skills/xberg"
     },
     {
       "name": "ResumeSkills",
@@ -8249,8 +8249,8 @@
       "name": "tutor-skills",
       "description": "Transform docs or codebases into Obsidian StudyVaults with interactive quizzes",
       "tags": [],
-      "repo": "RoundTable02/tutor-skills",
-      "homepage": "https://github.com/RoundTable02/tutor-skills"
+      "repo": "bevibing/tutor-skills",
+      "homepage": "https://github.com/bevibing/tutor-skills"
     },
     {
       "name": "write-concisely",
@@ -8394,10 +8394,10 @@
     },
     {
       "name": "rootly-incident-responder",
-      "description": "AI-powered incident response with ML similarity matching, solution suggestions, and on-call coordination. Requires [Rootly MCP Server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)",
+      "description": "AI-powered incident response with ML similarity matching, solution suggestions, and on-call coordination. Requires [Rootly MCP Server](https://github.com/rootlyhq/rootly-mcp-server)",
       "tags": [],
-      "repo": "Rootly-AI-Labs/Rootly-MCP-server",
-      "homepage": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server/blob/main/examples/skills/rootly-incident-responder.md"
+      "repo": "rootlyhq/rootly-mcp-server",
+      "homepage": "https://github.com/rootlyhq/rootly-mcp-server/blob/main/examples/skills/rootly-incident-responder.md"
     },
     {
       "name": "ios-simulator-skill",
@@ -8575,11 +8575,11 @@
       "homepage": "https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md"
     },
     {
-      "name": "claude-bootstrap",
+      "name": "maggy",
       "description": "Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)",
       "tags": [],
-      "repo": "alinaqi/claude-bootstrap",
-      "homepage": "https://github.com/alinaqi/claude-bootstrap"
+      "repo": "alinaqi/maggy",
+      "homepage": "https://github.com/alinaqi/maggy"
     },
     {
       "name": "makepad-skills",
@@ -8613,15 +8613,15 @@
       "name": "claude-skills",
       "description": "Swift Server development guidance with linting tool for best practices",
       "tags": [],
-      "repo": "Joannis/claude-skills",
-      "homepage": "https://github.com/Joannis/claude-skills"
+      "repo": "wendylabsinc/claude-skills",
+      "homepage": "https://github.com/wendylabsinc/claude-skills"
     },
     {
       "name": "app-store-connect-cli-skills",
       "description": "Automate App Store deployments and management using ASC CLI",
       "tags": [],
-      "repo": "rudrankriyam/app-store-connect-cli-skills",
-      "homepage": "https://github.com/rudrankriyam/app-store-connect-cli-skills"
+      "repo": "rorkai/app-store-connect-cli-skills",
+      "homepage": "https://github.com/rorkai/app-store-connect-cli-skills"
     },
     {
       "name": "claude-code-startup-skills",
@@ -8767,8 +8767,8 @@
       "name": "understand-anything",
       "description": "Interactive codebase knowledge graphs via multi-agent LLM analysis",
       "tags": [],
-      "repo": "Lum1104/Understand-Anything",
-      "homepage": "https://github.com/Lum1104/Understand-Anything"
+      "repo": "Egonex-AI/Understand-Anything",
+      "homepage": "https://github.com/Egonex-AI/Understand-Anything"
     },
     {
       "name": "skill-optimizer",
@@ -9142,18 +9142,18 @@
       "homepage": "https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins"
     },
     {
-      "name": "apple-hig-skills",
+      "name": "hig-doctor",
       "description": "Apple Human Interface Guidelines as 14 agent skills covering platforms, foundations, components, patterns, inputs, and technologies for iOS, macOS, visionOS, watchOS, and tvOS",
       "tags": [],
-      "repo": "raintree-technology/apple-hig-skills",
-      "homepage": "https://github.com/raintree-technology/apple-hig-skills"
+      "repo": "raintree-technology/hig-doctor",
+      "homepage": "https://github.com/raintree-technology/hig-doctor"
     },
     {
-      "name": "claude-scientific-skills",
+      "name": "scientific-agent-skills",
       "description": "Scientific research and analysis skills",
       "tags": [],
-      "repo": "K-Dense-AI/claude-scientific-skills",
-      "homepage": "https://github.com/K-Dense-AI/claude-scientific-skills"
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
       "name": "claude-win11-speckit-update-skill",
@@ -9177,11 +9177,11 @@
       "homepage": "https://github.com/SHADOWPR0/security-bluebook-builder"
     },
     {
-      "name": "Claude-Ally-Health",
+      "name": "WellAlly-health",
       "description": "A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.",
       "tags": [],
-      "repo": "huifer/Claude-Ally-Health",
-      "homepage": "https://github.com/huifer/Claude-Ally-Health"
+      "repo": "huifer/WellAlly-health",
+      "homepage": "https://github.com/huifer/WellAlly-health"
     },
     {
       "name": "clarity-gate",
@@ -9198,11 +9198,11 @@
       "homepage": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
     },
     {
-      "name": "AI-research-SKILLs",
+      "name": "AI-Research-SKILLs",
       "description": "77 AI research skills for model training, inference, and MLOps",
       "tags": [],
-      "repo": "zechenzhangAGI/AI-research-SKILLs",
-      "homepage": "https://github.com/zechenzhangAGI/AI-research-SKILLs"
+      "repo": "Orchestra-Research/AI-Research-SKILLs",
+      "homepage": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
     },
     {
       "name": "AI-research-SKILLs",
@@ -9250,15 +9250,15 @@
       "name": "awesome-legal-skills",
       "description": "Curated agent skills for automating legal workflows",
       "tags": [],
-      "repo": "lawvable/awesome-legal-skills",
-      "homepage": "https://github.com/lawvable/awesome-legal-skills"
+      "repo": "lawve-ai/awesome-legal-skills",
+      "homepage": "https://github.com/lawve-ai/awesome-legal-skills"
     },
     {
       "name": "VMware-AIops",
       "description": "AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP.",
       "tags": [],
-      "repo": "zw008/VMware-AIops",
-      "homepage": "https://github.com/zw008/VMware-AIops"
+      "repo": "vmware-skills/VMware-AIops",
+      "homepage": "https://github.com/vmware-skills/VMware-AIops"
     },
     {
       "name": "skills",
