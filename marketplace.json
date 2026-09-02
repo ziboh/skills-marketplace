@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-01T02:34:16.423Z",
-  "total": 1213,
+  "generatedAt": "2026-09-02T01:55:38.853Z",
+  "total": 1225,
   "stats": {
-    "withRepo": 1213,
+    "withRepo": 1225,
     "withoutRepo": 0
   },
   "skills": [
@@ -165,6 +165,102 @@
       "repo": "voltagent/skills",
       "homepage": "https://officialskills.sh/voltagent/skills/voltagent-docs-bundle",
       "author": "VoltAgent"
+    },
+    {
+      "name": "crawl-html",
+      "description": "Crawl a URL and return its raw HTML with JS rendering, device emulation, and geo-targeting",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/crawl-html",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "crawl-markdown",
+      "description": "Extract clean, LLM-ready Markdown from any URL, stripped of ads and boilerplate",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/crawl-markdown",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "crawl-screenshot",
+      "description": "Take full-page or viewport screenshots of any URL on desktop or mobile",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/crawl-screenshot",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-get",
+      "description": "Retrieve a stored page from Crawlbase Cloud Storage as JSON, HTML, or Markdown",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-get",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-list",
+      "description": "List stored rids with scroll-based pagination, up to 1000 per call",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-list",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-bulk-get",
+      "description": "Retrieve up to 100 stored pages in one call, with optional auto-delete",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-bulk-get",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-count",
+      "description": "Count the documents held in Crawlbase Cloud Storage for a token",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-count",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-delete",
+      "description": "Delete a single stored page from Crawlbase Cloud Storage by rid",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-delete",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "storage-bulk-delete",
+      "description": "Delete up to 100 stored pages from Crawlbase Cloud Storage in one call",
+      "tags": [],
+      "repo": "crawlbase/skills",
+      "homepage": "https://officialskills.sh/crawlbase/skills/storage-bulk-delete",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "crawlbase-mcp",
+      "description": "The MCP server behind these skills (npm `@crawlbase/mcp`) with JS rendering, proxy rotation, and anti-bot protection",
+      "tags": [],
+      "repo": "crawlbase/crawlbase-mcp",
+      "homepage": "https://github.com/crawlbase/crawlbase-mcp",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "langchain-crawlbase",
+      "description": "LangChain document loader, tool, and retriever backed by the Crawling API",
+      "tags": [],
+      "repo": "crawlbase/langchain-crawlbase",
+      "homepage": "https://github.com/crawlbase/langchain-crawlbase",
+      "author": "Crawlbase"
+    },
+    {
+      "name": "n8n-nodes-crawlbase",
+      "description": "Native Crawlbase node for n8n with credentials and Crawling API options",
+      "tags": [],
+      "repo": "crawlbase/n8n-nodes-crawlbase",
+      "homepage": "https://github.com/crawlbase/n8n-nodes-crawlbase",
+      "author": "Crawlbase"
     },
     {
       "name": "api-skill",
