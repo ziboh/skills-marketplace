@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-05T01:57:15.478Z",
-  "total": 1229,
+  "generatedAt": "2026-09-06T01:51:57.110Z",
+  "total": 1238,
   "stats": {
-    "withRepo": 1229,
+    "withRepo": 1238,
     "withoutRepo": 0
   },
   "skills": [
@@ -8227,6 +8227,27 @@
       "homepage": "https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search"
     },
     {
+      "name": "sepia",
+      "description": "De-AI writing skill fixing narrative structure before word choice",
+      "tags": [],
+      "repo": "Nanako0129/sepia",
+      "homepage": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "marketing-mindset",
+      "description": "Marketing OS for AI agents — think like a marketer first, get tactics as the output",
+      "tags": [],
+      "repo": "axelfreeman/marketing-mindset",
+      "homepage": "https://github.com/axelfreeman/marketing-mindset"
+    },
+    {
+      "name": "social-media-research-skills",
+      "description": "Research social outliers, comments, competitors, ads, and trends",
+      "tags": [],
+      "repo": "ScrapeCreators/social-media-research-skills",
+      "homepage": "https://github.com/ScrapeCreators/social-media-research-skills"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -8493,6 +8514,20 @@
       "homepage": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
     },
     {
+      "name": "job-application-agent",
+      "description": "Privacy-first job discovery and tracking",
+      "tags": [],
+      "repo": "vaibhavarora14/job-application-agent",
+      "homepage": "https://github.com/vaibhavarora14/job-application-agent"
+    },
+    {
+      "name": "kilo-kit-mcp",
+      "description": "Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex",
+      "tags": [],
+      "repo": "VoDaiLocz/kilo-kit-mcp",
+      "homepage": "https://github.com/VoDaiLocz/kilo-kit-mcp"
+    },
+    {
       "name": "eskill",
       "description": "Meta-skill to build top-tier Agent Skills: spec-compliant SKILL.md, eval loop, validator, market research, numbered-file pipeline",
       "tags": [],
@@ -8617,6 +8652,13 @@
       "tags": [],
       "repo": "ehmo/platform-design-skills",
       "homepage": "https://github.com/ehmo/platform-design-skills"
+    },
+    {
+      "name": "reimagine-it",
+      "description": "Content-Derived Design CLI and agent skill: reads existing HTML and writes a stronger standalone page from nouns, dates, numbers, and colors already in the file",
+      "tags": [],
+      "repo": "Kayforkind/reimagine-it",
+      "homepage": "https://github.com/Kayforkind/reimagine-it"
     },
     {
       "name": "vexor",
@@ -9060,6 +9102,13 @@
       "homepage": "https://github.com/lindblomstefan/skills-library"
     },
     {
+      "name": "poka-yoke",
+      "description": "Make misuse unrepresentable: audit, design, and enforce mistake-proofing devices",
+      "tags": [],
+      "repo": "rainmanjam/poka-yoke",
+      "homepage": "https://github.com/rainmanjam/poka-yoke"
+    },
+    {
       "name": "agents",
       "description": "Reusable standards and workflow skills for AI coding agents",
       "tags": [],
@@ -9072,6 +9121,13 @@
       "tags": [],
       "repo": "dannwaneri/spec-writer",
       "homepage": "https://github.com/dannwaneri/spec-writer"
+    },
+    {
+      "name": "d1v",
+      "description": "Deploy web projects with verified previews and confirmed production releases",
+      "tags": [],
+      "repo": "d1vai/d1v-cli",
+      "homepage": "https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md"
     },
     {
       "name": "context-fundamentals",
@@ -9247,6 +9303,13 @@
       "tags": [],
       "repo": "vshulcz/deja-vu",
       "homepage": "https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history"
+    },
+    {
+      "name": "task-observer",
+      "description": "Meta-skill for continuous skill improvement & automatic skill creation.",
+      "tags": [],
+      "repo": "rebelytics/one-skill-to-rule-them-all",
+      "homepage": "https://github.com/rebelytics/one-skill-to-rule-them-all"
     },
     {
       "name": "a-share-skill",
