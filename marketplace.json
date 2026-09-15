@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-14T02:18:06.913Z",
-  "total": 1239,
+  "generatedAt": "2026-09-15T02:24:09.444Z",
+  "total": 1093,
   "stats": {
-    "withRepo": 1239,
+    "withRepo": 1093,
     "withoutRepo": 0
   },
   "skills": [
@@ -6615,1243 +6615,11 @@
       "author": "Redis"
     },
     {
-      "name": "CUDA-Q/cudaq-guide",
-      "description": "CUDA-Q onboarding guide for installation, test programs, GPU simulation, QPU hardware, and quantum applications.",
+      "name": "Browse NVIDIA's official Agent Skills catalog",
+      "description": "View the current collection directly in NVIDIA's repository.",
       "tags": [],
       "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/CUDA-Q/cudaq-guide",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "DALI/dali-dynamic-mode",
-      "description": "Use when writing DALI data loading or preprocessing code with `nvidia.dali.experimental.dynamic` (ndd), or when converting DALI pipeline-mode code to dynamic mode, or when the user...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/DALI/dali-dynamic-mode",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/adding-model-support",
-      "description": "Guide for adding support for new LLM or VLM models in Megatron-Bridge.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/adding-model-support",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/build-and-dependency",
-      "description": "Dev environment setup for Megatron Bridge — container-based development, uv package management, lockfile regeneration, adding dependencies, Slurm container usage, and common build...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/build-and-dependency",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/bump-dependency",
-      "description": "Bump a pinned dependency (TransformerEngine, Megatron-LM, NRX, etc.), regenerate the lockfile, open a PR, and drive it to green by attaching a watchdog to the \"CICD NeMo\" workflow...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/bump-dependency",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/cicd",
-      "description": "CI/CD reference for Megatron Bridge — pipeline structure, commit and PR workflow, CI failure investigation, and common failure patterns.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/cicd",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/linting-and-formatting",
-      "description": "Code style and quality rules for Megatron Bridge — ruff configuration, naming conventions, type hints, mypy rules, docstrings, copyright headers, logging, and the code review check...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/linting-and-formatting",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/mlm-bridge-training",
-      "description": "Run Megatron-LM (MLM) and Megatron Bridge training with mock or real data.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/mlm-bridge-training",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/multi-node-slurm",
-      "description": "Convert single-node scripts to multi-node Slurm sbatch jobs and debug common multi-node failures.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/multi-node-slurm",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/nemo-rl-e2e-testing",
-      "description": "External NeMo-RL end-to-end validation workflow for Megatron-Bridge model/provider changes, including downstream compatibility checks, external RL lifecycle behavior, Megatron poli...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/nemo-rl-e2e-testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/parity-testing",
-      "description": "Structured framework for verifying numerical parity of HF<->MCore weight conversions.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/parity-testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-activation-recompute",
-      "description": "Validate and use selective and full activation recompute in Megatron Bridge to reduce GPU memory usage at the cost of extra compute.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-activation-recompute",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-cpu-offloading",
-      "description": "Validate and use CPU offloading in Megatron Bridge, including layer-level activation offloading and fractional optimizer state offloading with HybridDeviceOptimizer.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-cpu-offloading",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-cuda-graphs",
-      "description": "Validate and use CUDA graph capture in Megatron Bridge, including local full-iteration graphs and Transformer Engine scoped graphs for attention, MLP, and MoE modules.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-cuda-graphs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-expert-parallel-overlap",
-      "description": "Validate and use MoE expert-parallel communication overlap in Megatron-Bridge, including overlap_moe_expert_parallel_comm, delay_wgrad_compute, and flex dispatcher backends such as...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-expert-parallel-overlap",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-hierarchical-context-parallel",
-      "description": "Operational guide for enabling hierarchical context parallelism in Megatron-Bridge, including config knobs, code anchors, pitfalls, and verification.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-hierarchical-context-parallel",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-megatron-fsdp",
-      "description": "Operational guide for enabling Megatron FSDP in Megatron-Bridge, including config knobs, code anchors, pitfalls, and verification.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-megatron-fsdp",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-memory-tuning",
-      "description": "Techniques for reducing peak GPU memory in Megatron Bridge — expandable segments, parallelism resizing, activation recompute, CPU offloading constraints, and common OOM fixes.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-memory-tuning",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-comm-overlap",
-      "description": "MoE expert-parallel communication overlap in Megatron Bridge.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-comm-overlap",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-dispatcher-selection",
-      "description": "Choose the right MoE token dispatcher (`alltoall`, DeepEP, or HybridEP) for the hardware, EP degree, and optimization stage.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-dispatcher-selection",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-hardware-configs",
-      "description": "Representative MoE training playbooks by hardware platform and model family.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-hardware-configs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-long-context",
-      "description": "Long-context MoE training guidance for Megatron Bridge.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-long-context",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-optimization-workflow",
-      "description": "Systematic workflow for MoE training optimization in Megatron Bridge, based on the Megatron-Core MoE paper.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-optimization-workflow",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-moe-vlm-training",
-      "description": "Practical guidance for training MoE VLMs in Megatron Bridge.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-moe-vlm-training",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-parallelism-strategies",
-      "description": "Operational guide for choosing and combining parallelism strategies in Megatron Bridge, including sizing rules, hardware topology mapping, and combined parallelism configuration.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-parallelism-strategies",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-sequence-packing",
-      "description": "Validate and use packed sequences and long-context training in Megatron-Bridge, distinguishing offline packed SFT for LLMs from in-batch packing for VLMs, and applying the right CP...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-sequence-packing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/perf-tp-dp-comm-overlap",
-      "description": "Operational guide for enabling TP, DP, and PP communication overlap in Megatron-Bridge, including config knobs, code anchors, pitfalls, and verification.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/perf-tp-dp-comm-overlap",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/recipe-recommender",
-      "description": "Recommend and customize Megatron Bridge recipes for a user's model, GPU count, and training goal.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/recipe-recommender",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/resiliency",
-      "description": "Resiliency features in Megatron Bridge including fault tolerance, straggler detection, in-process restart, preemption, and re-run state machine.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/resiliency",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/testing",
-      "description": "Testing reference for Megatron Bridge — unit and functional test layout, tier semantics (L0/L1/L2/flaky), script conventions, running tests locally, adding/moving/disabling tests,...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Bridge/verl-e2e-testing",
-      "description": "External verl end-to-end validation workflow for Megatron-Bridge model/provider changes.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Bridge/verl-e2e-testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/build-and-dependency",
-      "description": "Container-based dev environment setup and dependency management for Megatron-LM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/build-and-dependency",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/bump-base-image",
-      "description": "Bump the NVIDIA PyTorch base image (`nvcr.io/nvidia/pytorch:<YY.MM>-py3`) used by Megatron-LM CI.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/bump-base-image",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/cicd",
-      "description": "CI/CD reference for Megatron-LM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/cicd",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/create-issue",
-      "description": "Investigate a failing GitHub Actions run or job and create a GitHub issue for the failure.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/create-issue",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/linting-and-formatting",
-      "description": "Linting and formatting for Megatron-LM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/linting-and-formatting",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/nightly-sync",
-      "description": "Domain knowledge for the nightly main-to-dev sync workflow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/nightly-sync",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/onboard-gb200-1node-tests",
-      "description": "Onboard 1-node GitHub MR functional tests for GB200 from existing mr-scoped 2-node tests.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/onboard-gb200-1node-tests",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/respond-to-issue",
-      "description": "Research and draft a response to a GitHub issue or question from an external contributor.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/respond-to-issue",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/run-on-slurm",
-      "description": "How to launch distributed Megatron-LM training jobs on a SLURM cluster.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/run-on-slurm",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/split-pr",
-      "description": "Split a PR into multiple PRs to reduce the number of required CODEOWNERS reviewer groups.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/split-pr",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/testing",
-      "description": "Test system for Megatron-LM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Megatron-Core/update-golden-values",
-      "description": "Refresh golden values from a GitHub Actions workflow run (failing-only or all jobs), score the change with average normalized relative differences, and produce a PR-ready summary.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Megatron-Core/update-golden-values",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/accessing-mlflow",
-      "description": "Query and browse evaluation results stored in MLflow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/accessing-mlflow",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/debug",
-      "description": "Run commands inside a remote Docker container via the file-based command relay (tools/debugger).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/debug",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/deployment",
-      "description": "Serve a quantized or unquantized LLM checkpoint as an OpenAI-compatible API endpoint using vLLM, SGLang, or TRT-LLM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/deployment",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/evaluation",
-      "description": "Evaluates accuracy of quantized or unquantized LLMs using NeMo Evaluator Launcher (NEL).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/evaluation",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/launching-evals",
-      "description": "Run, monitor, analyze, and debug LLM evaluations via nemo-evaluator-launcher.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/launching-evals",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/monitor",
-      "description": "Monitor submitted jobs (PTQ, evaluation, deployment) on SLURM clusters.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/monitor",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/ptq",
-      "description": "This skill should be used when the user asks to \"quantize a model\", \"run PTQ\", \"post-training quantization\", \"NVFP4 quantization\", \"FP8 quantization\", \"INT8 quantization\", \"INT4 AW...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/ptq",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "Model-Optimizer/release-cherry-pick",
-      "description": "Cherry-pick merged PRs labeled for a release branch into that branch, then open a PR and apply the cherry-pick-done label.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/Model-Optimizer/release-cherry-pick",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Evaluator/byob",
-      "description": "Create custom LLM evaluation benchmarks using the BYOB decorator framework.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Evaluator/byob",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Evaluator-Launcher/accessing-mlflow",
-      "description": "Query and browse evaluation results stored in MLflow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Evaluator-Launcher/accessing-mlflow",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Evaluator-Launcher/launching-evals",
-      "description": "Run, monitor, analyze, and debug LLM evaluations via nemo-evaluator-launcher.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Evaluator-Launcher/launching-evals",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Evaluator-Launcher/nel-assistant",
-      "description": "Interactive config wizard for NeMo Evaluator Launcher (NEL).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Evaluator-Launcher/nel-assistant",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Gym/add-benchmark",
-      "description": "> Guide for adding a new benchmark or training environment to NeMo-Gym.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Gym/add-benchmark",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Gym/nemo-gym-debugging",
-      "description": ">- Use when debugging a Nemo Gym run or reward profiling job.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Gym/nemo-gym-debugging",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Gym/nemo-gym-docs",
-      "description": "> Maintain the NeMo Gym Fern docs site — add, update, move, or remove pages under fern/.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Gym/nemo-gym-docs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Gym/nemo-gym-pivot-datasets",
-      "description": ">- Use when creating, validating, or documenting Nemo Gym pivot datasets from rollout, trajectory, chat-completion, Responses API, or tool-call artifacts.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Gym/nemo-gym-pivot-datasets",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-Gym/nemo-gym-reward-profiling",
-      "description": ">- Use to help users get started with Nemo Gym reward profiling.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-Gym/nemo-gym-reward-profiling",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/auto-research",
-      "description": "Autonomous NeMo-RL research agent workflow for directed hypothesis testing and open-ended discovery.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/auto-research",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/brev-etiquette",
-      "description": "Brev instance operating guidance for NeMo-RL agents working in /home/ubuntu/RL with limited workspace disk, a larger /ephemeral volume, and optional /home/ubuntu/RL/.env secrets.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/brev-etiquette",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/build-and-dependency",
-      "description": "Build and dependency management for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/build-and-dependency",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/cicd",
-      "description": "CI/CD reference for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/cicd",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/config-conventions",
-      "description": "Configuration conventions for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/config-conventions",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/contributing",
-      "description": "Contribution conventions for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/contributing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/copyright",
-      "description": "NVIDIA copyright header requirements for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/copyright",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/docs",
-      "description": "Documentation conventions for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/docs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/error-handling",
-      "description": "Error handling guidelines for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/error-handling",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/launch-nemo-rl",
-      "description": "Playbook for launching, monitoring, stopping, and debugging NeMo-RL recipes on a Kubernetes cluster via the nrl-k8s CLI.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/launch-nemo-rl",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/linting-and-formatting",
-      "description": "Code style guidelines for NeMo-RL (Python and shell).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/linting-and-formatting",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/review-pr",
-      "description": "Interactive code review for NVIDIA-NeMo/RL pull requests.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/review-pr",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/session-memory",
-      "description": "Manage durable working-session memory for coding agents.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/session-memory",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NeMo-RL/testing",
-      "description": "Testing conventions for NeMo-RL.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NeMo-RL/testing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-contributor-create-pr",
-      "description": "Create GitHub pull requests that follow the NemoClaw PR template.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-contributor-create-pr",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-contributor-update-docs",
-      "description": "Scan recent git commits for changes that affect user-facing behavior, then draft or update the corresponding documentation pages and refresh generated user skills for release prep.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-contributor-update-docs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-cross-issue-sweep",
-      "description": "Scans other open issues to find ones a given PR may also fix or accidentally break.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-cross-issue-sweep",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-cut-release-tag",
-      "description": "Cut a new semver release — bump all version strings via bump-version.ts, open a release PR, and after merge tag main and push.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-cut-release-tag",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-day",
-      "description": "Runs the daytime maintainer loop for NemoClaw, prioritizing items labeled with the current version target.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-day",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-evening",
-      "description": "Runs the end-of-day maintainer handoff for NemoClaw.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-evening",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-find-review-pr",
-      "description": "Finds open GitHub PRs with security and priority-high labels, links each to its issue, detects duplicates (multiple PRs fixing the same issue), and presents a table of review candi...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-find-review-pr",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-morning",
-      "description": "Runs the morning maintainer standup for NemoClaw.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-morning",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-normalize-title-tags",
-      "description": "Normalizes GitHub issue and PR titles by removing any bracketed [NemoClaw] tag case-insensitively, even when the tag appears later in the title.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-normalize-title-tags",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-pr-comparator",
-      "description": "Compares competing PRs that target the same issue and recommends which one to merge.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-pr-comparator",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-security-code-review",
-      "description": "Performs a comprehensive security review of code changes in a GitHub PR or issue.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-security-code-review",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-maintainer-triage",
-      "description": "AI-assisted label triage for NVIDIA/NemoClaw issues and PRs.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-maintainer-triage",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-skills-guide",
-      "description": "Start here.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-skills-guide",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-agent-skills",
-      "description": "Describes the agent skills shipped with NemoClaw and how to access them by cloning the repository.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-agent-skills",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-configure-inference",
-      "description": "Connects NemoClaw to a local inference server.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-configure-inference",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-configure-security",
-      "description": "Presents a risk framework for every configurable security control in NemoClaw.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-configure-security",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-deploy-remote",
-      "description": "Explains how to run NemoClaw on a remote GPU instance, including the deprecated Brev compatibility path and the preferred installer plus onboard flow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-deploy-remote",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-get-started",
-      "description": "Installs NemoClaw, launches a sandbox, and runs the first agent prompt.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-get-started",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-manage-policy",
-      "description": "Adds, removes, or modifies allowed endpoints in the sandbox policy.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-manage-policy",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-manage-sandboxes",
-      "description": "Explains operational tasks after the quickstart: listing sandboxes, status and health checks, logs, diagnostics, port forwards, multiple sandboxes, credential reset, rebuilds, netw...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-manage-sandboxes",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-monitor-sandbox",
-      "description": "Inspects sandbox health, traces agent behavior, and diagnoses problems.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-monitor-sandbox",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-overview",
-      "description": "Explains how OpenClaw, OpenShell, and NemoClaw form the ecosystem, NemoClaw's position in the stack, what NemoClaw adds beyond the community sandbox, and when to prefer NemoClaw ve...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-overview",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "NemoClaw/nemoclaw-user-reference",
-      "description": "Describes the NemoClaw plugin and blueprint architecture and how they orchestrate the OpenClaw sandbox.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/NemoClaw/nemoclaw-user-reference",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-accuracy-debug",
-      "description": "> Debug AutoDeploy accuracy regressions vs a reference score (PyTorch backend or published baseline).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-accuracy-debug",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-add-fusion-transformation",
-      "description": "> Claude Code skill (trtllm-agent-toolkit): implement or extend TensorRT-LLM AutoDeploy fusion transforms under transform/library/ in a TensorRT-LLM checkout.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-add-fusion-transformation",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-conf-check",
-      "description": "> Check whether AutoDeploy YAML configs were actually applied by analyzing server logs and optionally graph dumps (AD_DUMP_GRAPHS_DIR).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-conf-check",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-graph-dump",
-      "description": "> Enable and interpret TensorRT-LLM AutoDeploy FX graph text dumps via AD_DUMP_GRAPHS_DIR.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-graph-dump",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-layer-visualizer",
-      "description": "> Visualize a specific transformer decoder layer from an AutoDeploy FX graph text dump as a hierarchical DOT/PNG diagram.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-layer-visualizer",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/ad-model-onboard",
-      "description": "> Translates a HuggingFace model into a prefill-only AutoDeploy custom model using reference custom ops, validates with hierarchical equivalence tests.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/ad-model-onboard",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/exec-local-compile",
-      "description": "Compile TensorRT-LLM on a compute node inside a Docker container.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/exec-local-compile",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/exec-slurm-compile",
-      "description": "Compile TensorRT-LLM on a SLURM cluster.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/exec-slurm-compile",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/kernel-cute-writing",
-      "description": "> Write and implement GPU kernels using NVIDIA CuTe DSL (CUTLASS 4.x Python API) — NOT for Triton, CUDA C++, or conceptual explanations.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/kernel-cute-writing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/kernel-tileir-optimization",
-      "description": "> Optimize existing Triton kernels for NVIDIA TileIR backend on Blackwell GPUs (sm_100+).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/kernel-tileir-optimization",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/kernel-triton-writing",
-      "description": "> ONLY for OpenAI Triton (@triton.jit) kernel development.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/kernel-triton-writing",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-analysis",
-      "description": "> Performance analysis coordination workflow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-analysis",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-host-analysis",
-      "description": "> Analyze host/CPU overhead in TensorRT-LLM inference from nsys traces.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-host-analysis",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-host-optimization",
-      "description": "Profiles and optimizes TensorRT-LLM host/CPU overhead using line_profiler (with nsys support planned).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-host-optimization",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-nsight-compute-analysis",
-      "description": "> Analyze ncu (NVIDIA Nsight Compute) profiling output: SOL% bottleneck classification, roofline analysis, occupancy diagnosis, memory hierarchy analysis, warp stall analysis, metr...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-nsight-compute-analysis",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-nsight-systems",
-      "description": ">- Nsight Systems (nsys) CLI for system-level timeline profiling.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-nsight-systems",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-optimization",
-      "description": "> Performance optimization coordination playbook.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-optimization",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-torch-cuda-graphs",
-      "description": ">- Apply CUDA Graphs to PyTorch workloads — API selection (torch.compile, PyTorch make_graphed_callables, TE make_graphed_callables, MCore CudaGraphManager, FullCudaGraphWrapper, m...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-torch-cuda-graphs",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-torch-sync-free",
-      "description": ">- Identify and eliminate host-device synchronizations in PyTorch code.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-torch-sync-free",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/perf-workload-profiling",
-      "description": "> Code instrumentation for timing workloads.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/perf-workload-profiling",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/trtllm-code-contribution",
-      "description": "> Best practices for contributing code to TensorRT-LLM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/trtllm-code-contribution",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/trtllm-codebase-exploration",
-      "description": "> Systematic approach to exploring the TensorRT-LLM codebase before implementing new features or optimizations.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/trtllm-codebase-exploration",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/trtllm-flashinfer-upgrade",
-      "description": ">- Upgrade flashinfer-python version in TensorRT-LLM.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/trtllm-flashinfer-upgrade",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/trtllm-moe-develop",
-      "description": ">- Review, design, and refactor TensorRT-LLM PyTorch MoE code for architecture fit, clean code, maintainability, and testability.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/trtllm-moe-develop",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TensorRT-LLM/trtllm-serve-config-guide",
-      "description": "Generate a source-backed starting `trtllm-serve --config` YAML for basic aggregate single-node PyTorch serving, aligned with checked-in TensorRT-LLM configs and deployment docs.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TensorRT-LLM/trtllm-serve-config-guide",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/adding-cutile-kernel",
-      "description": "Add a new cuTile GPU kernel operator to TileGym.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/adding-cutile-kernel",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/converting-cutile-to-julia",
-      "description": "Converts cuTile Python GPU kernels (@ct.kernel) to cuTile.jl Julia equivalents.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/converting-cutile-to-julia",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/converting-cutile-to-triton",
-      "description": "Converts cuTile GPU kernels (@ct.kernel) to Triton (@triton.jit).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/converting-cutile-to-triton",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/cutile-autotuning",
-      "description": "Use when adding, modifying, optimizing, or debugging CuTile autotuning code.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/cutile-autotuning",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/cutile-python",
-      "description": "Expert cuTile programming assistant.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/cutile-python",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/improve-cutile-kernel-perf",
-      "description": "Iteratively optimize cuTile kernel performance through systematic profiling, bottleneck analysis, IR comparison, and targeted tuning.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/improve-cutile-kernel-perf",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "TileGym/monkey-patch-kernels-to-transformers",
-      "description": "Integrate TileGym kernels into Hugging Face `transformers` models by replacing the library's submodule(s) and certain class(es)' implementations, and patching certain class(es)' in...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/TileGym/monkey-patch-kernels-to-transformers",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-developer",
-      "description": "Modify, build, test, debug, and contribute to NVIDIA cuOpt (C++/CUDA, Python, server, CI).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-developer",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-install",
-      "description": "Install cuOpt for Python, C, or as a server (pip, conda, Docker) — system requirements, install commands, and verification.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-install",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-numerical-optimization-api-c",
-      "description": "LP, MILP, and QP (beta) with cuOpt — C API only.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-numerical-optimization-api-c",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-numerical-optimization-api-cli",
-      "description": "LP, MILP, and QP (beta) with cuOpt — CLI only (MPS files, cuopt_cli).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-numerical-optimization-api-cli",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-numerical-optimization-api-python",
-      "description": "Solve Linear Programming (LP), Mixed-Integer Linear Programming (MILP), and Quadratic Programming (QP, beta) with the Python API.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-numerical-optimization-api-python",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-routing-api-python",
-      "description": "Vehicle routing (VRP, TSP, PDP) with cuOpt — Python API only.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-routing-api-python",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-server-api-python",
-      "description": "cuOpt REST server — start server, endpoints, Python/curl client examples.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-server-api-python",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-server-common",
-      "description": "cuOpt REST server — what it does and how requests flow.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-server-common",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/cuopt-user-rules",
-      "description": "Base rules for end users calling NVIDIA cuOpt (routing/LP/MILP/QP/install/server).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/cuopt-user-rules",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/numerical-optimization-formulation",
-      "description": "Numerical optimization (LP, MILP, QP) — concepts, problem-text parsing, and formulation patterns.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/numerical-optimization-formulation",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/routing-formulation",
-      "description": "Vehicle routing (VRP, TSP, PDP) — problem types and data requirements.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/routing-formulation",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "cuopt/skill-evolution",
-      "description": "After solving a non-trivial problem, detect generalizable learnings and propose skill updates so future interactions benefit automatically.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt/skill-evolution",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "deepstream/deepstream-dev",
-      "description": "NVIDIA DeepStream SDK 9.0 development with Python pyservicemaker API.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/deepstream/deepstream-dev",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "deepstream/deepstream-import-vision-model",
-      "description": "> Use this skill to bring any vision model from HuggingFace or NVIDIA NGC into an NVIDIA DeepStream pipeline with end-to-end automation: ONNX download, SafeTensors export, TRT engi...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/deepstream/deepstream-import-vision-model",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "nemotron-voice-agent/nemotron-voice-agent-deploy",
-      "description": "Deploy Nemotron Voice Agent on Workstation (x86), Jetson Thor, or Cloud NIMs.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/nemotron-voice-agent/nemotron-voice-agent-deploy",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "rag/rag-blueprint",
-      "description": "\"NVIDIA RAG Blueprint — deploy, configure, troubleshoot, and manage.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/rag/rag-blueprint",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/alerts",
-      "description": "Manage and monitor VSS alerts after the alerts profile is deployed.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/alerts",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/deploy",
-      "description": "Deploy, debug, or tear down any VSS profile using a compose-centric workflow — config (dry-run) with env overrides, review resolved compose, then compose up.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/deploy",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/report",
-      "description": "Produce video analysis reports by discovering the deployed VSS agent, querying POST /generate for a timestamped captioned summary of the clip, then formatting the agent reply as th...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/report",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/rt-vlm",
-      "description": "> Use this skill when working with the RTVI VLM or RT-VLM microservice API on VSS 3.1.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/rt-vlm",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/video-analytics",
-      "description": "Query video analytics data and metrics from Elastic search via the VA-MCP server (port 9901).",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/video-analytics",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/video-search",
-      "description": "Search video archives using natural language — find events, objects, actions, and people across recorded video using fusion search (Cosmos Embed1 semantic search + CV attribute sea...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/video-search",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/video-summarization",
-      "description": "Summarize a video by calling the VLM NIM or the Long Video Summarization (LVS) microservice directly.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/video-summarization",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/video-understanding",
-      "description": "Call the vss agent to run video understanding on video to answer a text question.",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/video-understanding",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/vios",
-      "description": "Query VIOS REST APIs: sensor list, recording timelines, video clip extraction, snapshot capture, add/delete sensors and streams",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/vios",
-      "author": "NVIDIA"
-    },
-    {
-      "name": "video-search-and-summarization/vss-frag",
-      "description": "Generate video summary reports using the VSS video_search_frag extension with Long Video Summarization (LVS), Enterprise RAG knowledge retrieval, and human-in-the-loop parameter co...",
-      "tags": [],
-      "repo": "NVIDIA/skills",
-      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills/video-search-and-summarization/vss-frag",
+      "homepage": "https://github.com/NVIDIA/skills/tree/main/skills",
       "author": "NVIDIA"
     },
     {
@@ -8248,6 +7016,13 @@
       "homepage": "https://github.com/ScrapeCreators/social-media-research-skills"
     },
     {
+      "name": "humanizer-ru",
+      "description": "Removes 64 AI-writing markers from Russian text, with scanner",
+      "tags": [],
+      "repo": "ilyautov/humanizer-ru",
+      "homepage": "https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -8521,6 +7296,20 @@
       "homepage": "https://github.com/vaibhavarora14/job-application-agent"
     },
     {
+      "name": "claude-skills-mental-models",
+      "description": "Drop your own mental models in as files; 21 included",
+      "tags": [],
+      "repo": "cyperx84/claude-skills-mental-models",
+      "homepage": "https://github.com/cyperx84/claude-skills-mental-models"
+    },
+    {
+      "name": "zero-slop",
+      "description": "Edits AI-sounding prose while preserving facts, voice, and formatting",
+      "tags": [],
+      "repo": "manavmishra/ZeroSlop",
+      "homepage": "https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md"
+    },
+    {
       "name": "kilo-kit-mcp",
       "description": "Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex",
       "tags": [],
@@ -8655,7 +7444,7 @@
     },
     {
       "name": "reimagine-it",
-      "description": "Content-Derived Design CLI and agent skill: reads existing HTML and writes a stronger standalone page from nouns, dates, numbers, and colors already in the file",
+      "description": "Redesign HTML pages using only their existing content",
       "tags": [],
       "repo": "Kayforkind/reimagine-it",
       "homepage": "https://github.com/Kayforkind/reimagine-it"
@@ -9123,6 +7912,13 @@
       "homepage": "https://github.com/dannwaneri/spec-writer"
     },
     {
+      "name": "orca-replay",
+      "description": "Answer questions about past agent runs from their recordings",
+      "tags": [],
+      "repo": "Continuum-AI-Corp/OrcaReplay",
+      "homepage": "https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay"
+    },
+    {
       "name": "archify",
       "description": "Generate validated interactive architecture diagrams from codebases or system descriptions",
       "tags": [],
@@ -9135,6 +7931,20 @@
       "tags": [],
       "repo": "d1vai/d1v-cli",
       "homepage": "https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md"
+    },
+    {
+      "name": "cursor-kenji",
+      "description": "Ready-made playbooks your coding agent auto-triggers",
+      "tags": [],
+      "repo": "kensaurus/cursor-kenji",
+      "homepage": "https://github.com/kensaurus/cursor-kenji"
+    },
+    {
+      "name": "itqan-engineering",
+      "description": "Full software-engineering lifecycle in 12 skills: a resumable orchestrator plus spec, plan, TDD build, verify, five-axis review, security, and release — with approval gates before code and evidence before \"done\"",
+      "tags": [],
+      "repo": "saleh-alhaddad/itqan-engineering",
+      "homepage": "https://github.com/saleh-alhaddad/itqan-engineering"
     },
     {
       "name": "context-fundamentals",
@@ -9312,6 +8122,13 @@
       "homepage": "https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history"
     },
     {
+      "name": "subagent-cli-skills",
+      "description": "Delegate heavy work to 15 other agent CLIs as subagents",
+      "tags": [],
+      "repo": "amirkiarafiei/subagent-cli-skills",
+      "homepage": "https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills"
+    },
+    {
       "name": "task-observer",
       "description": "Meta-skill for continuous skill improvement & automatic skill creation.",
       "tags": [],
@@ -9397,17 +8214,10 @@
     },
     {
       "name": "AI-Research-SKILLs",
-      "description": "77 AI research skills for model training, inference, and MLOps",
+      "description": "AI research skills for model training, inference, and MLOps",
       "tags": [],
       "repo": "Orchestra-Research/AI-Research-SKILLs",
       "homepage": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
-    },
-    {
-      "name": "AI-research-SKILLs",
-      "description": "20-module AI research skill library for model architecture, training, and ML paper writing",
-      "tags": [],
-      "repo": "Orchestra-Research/AI-research-SKILLs",
-      "homepage": "https://github.com/Orchestra-Research/AI-research-SKILLs"
     },
     {
       "name": "claude-skill-homeassistant",
@@ -9625,6 +8435,20 @@
       "tags": [],
       "repo": "swaylq/humanize-chinese",
       "homepage": "https://github.com/swaylq/humanize-chinese"
+    },
+    {
+      "name": "edit-timeline-studio",
+      "description": "Create editable video timelines with captions, voiceovers, and verified exports.",
+      "tags": [],
+      "repo": "MartinDelophy/ai-video-editor",
+      "homepage": "https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio"
+    },
+    {
+      "name": "aig-agent-redteam",
+      "description": "One-command Agent red-team security assessment skill",
+      "tags": [],
+      "repo": "Tencent/AI-Infra-Guard",
+      "homepage": "https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam"
     },
     {
       "name": "n8n-code-javascript",
