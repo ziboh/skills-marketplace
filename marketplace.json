@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-15T02:24:09.444Z",
-  "total": 1093,
+  "generatedAt": "2026-09-16T02:17:47.066Z",
+  "total": 1094,
   "stats": {
-    "withRepo": 1093,
+    "withRepo": 1094,
     "withoutRepo": 0
   },
   "skills": [
@@ -8449,6 +8449,13 @@
       "tags": [],
       "repo": "Tencent/AI-Infra-Guard",
       "homepage": "https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam"
+    },
+    {
+      "name": "small-business-ru",
+      "description": "34 skills for Russian small business: taxes, deadlines, counterparty checks",
+      "tags": [],
+      "repo": "ilyautov/small-business-ru",
+      "homepage": "https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills"
     },
     {
       "name": "n8n-code-javascript",
