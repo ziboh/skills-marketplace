@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-23T02:21:57.519Z",
-  "total": 1096,
+  "generatedAt": "2026-09-24T02:09:49.470Z",
+  "total": 1098,
   "stats": {
-    "withRepo": 1096,
+    "withRepo": 1098,
     "withoutRepo": 0
   },
   "skills": [
@@ -8151,6 +8151,13 @@
       "homepage": "https://github.com/rebelytics/one-skill-to-rule-them-all"
     },
     {
+      "name": "universal-examprep-skill",
+      "description": "Multimodal grounded active-learning tutor for college textbooks (PDF/PPTX/DOCX). Features native PDF vector diagram cropping (`pypdfium2`), real homework quiz banks, hard exit-code anti-hallucination, and persistent cross-session state. Tested on 1,000+ pages of real college courseware on small cheap models.",
+      "tags": [],
+      "repo": "ZeKaiNie/universal-examprep-skill",
+      "homepage": "https://github.com/ZeKaiNie/universal-examprep-skill"
+    },
+    {
       "name": "a-share-skill",
       "description": "China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder",
       "tags": [],
@@ -8450,6 +8457,13 @@
       "tags": [],
       "repo": "swaylq/humanize-chinese",
       "homepage": "https://github.com/swaylq/humanize-chinese"
+    },
+    {
+      "name": "capcut-edit",
+      "description": "Edit CapCut and JianYing video projects from any agent",
+      "tags": [],
+      "repo": "renezander030/capcut-cli",
+      "homepage": "https://github.com/renezander030/capcut-cli/tree/master/skills/capcut-edit"
     },
     {
       "name": "edit-timeline-studio",
