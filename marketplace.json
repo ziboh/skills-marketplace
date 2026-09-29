@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-28T02:31:10.373Z",
-  "total": 1098,
+  "generatedAt": "2026-09-29T03:14:11.463Z",
+  "total": 1102,
   "stats": {
-    "withRepo": 1098,
+    "withRepo": 1102,
     "withoutRepo": 0
   },
   "skills": [
@@ -7304,6 +7304,13 @@
       "homepage": "https://github.com/vaibhavarora14/job-application-agent"
     },
     {
+      "name": "novel-writing",
+      "description": "Plans and revises fiction with viewpoint, dialogue, and style checks.",
+      "tags": [],
+      "repo": "wgwtest/novel-writing",
+      "homepage": "https://github.com/wgwtest/novel-writing"
+    },
+    {
       "name": "claude-skills-mental-models",
       "description": "Drop your own mental models in as files; 21 included",
       "tags": [],
@@ -7316,6 +7323,13 @@
       "tags": [],
       "repo": "manavmishra/ZeroSlop",
       "homepage": "https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md"
+    },
+    {
+      "name": "learn-from-materials",
+      "description": "Turn documents into source-grounded interactive learning pages for AI agents",
+      "tags": [],
+      "repo": "dmoshehun-prog/learn-from-materials",
+      "homepage": "https://github.com/dmoshehun-prog/learn-from-materials"
     },
     {
       "name": "kilo-kit-mcp",
@@ -7955,11 +7969,25 @@
       "homepage": "https://github.com/saleh-alhaddad/itqan-engineering"
     },
     {
+      "name": "check-skill",
+      "description": "Measures whether a Claude Code skill triggers: precision and recall",
+      "tags": [],
+      "repo": "UiPath/coder_eval",
+      "homepage": "https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/check-skill"
+    },
+    {
       "name": "slop-grader",
       "description": "Rule-based CLI tool powered by TypeSafe Jev that evaluates documents against custom rulesets, producing document scores and line-by-line violation flags to guide auto-fixing with an AI agent",
       "tags": [],
       "repo": "lukstei/slop-grader",
       "homepage": "https://github.com/lukstei/slop-grader"
+    },
+    {
+      "name": "agentic-readiness-assessment",
+      "description": "Assess repository readiness for AI coding agents and prioritize fixes.",
+      "tags": [],
+      "repo": "exadel-inc/agentic-readiness-assessment",
+      "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
     },
     {
       "name": "context-fundamentals",
