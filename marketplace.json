@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-09-29T03:14:11.463Z",
-  "total": 1102,
+  "generatedAt": "2026-09-30T02:56:22.207Z",
+  "total": 1112,
   "stats": {
-    "withRepo": 1102,
+    "withRepo": 1112,
     "withoutRepo": 0
   },
   "skills": [
@@ -7031,6 +7031,20 @@
       "homepage": "https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru"
     },
     {
+      "name": "jev-social",
+      "description": "Route local social research through Jev and socai CLI",
+      "tags": [],
+      "repo": "socai-io/jev-social",
+      "homepage": "https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social"
+    },
+    {
+      "name": "vibe-prospecting",
+      "description": "B2B prospecting enrichment and GTM data workflows",
+      "tags": [],
+      "repo": "explorium-ai/vibeprospecting-plugin",
+      "homepage": "https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -7323,6 +7337,27 @@
       "tags": [],
       "repo": "manavmishra/ZeroSlop",
       "homepage": "https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md"
+    },
+    {
+      "name": "claude-skills",
+      "description": "225 business, everyday-life, and coding skills, many with scripts",
+      "tags": [],
+      "repo": "OneWave-AI/claude-skills",
+      "homepage": "https://github.com/OneWave-AI/claude-skills"
+    },
+    {
+      "name": "giasip-research",
+      "description": "Source-linked research reports with explicit unresolved checks",
+      "tags": [],
+      "repo": "GiaSip/giasip-skills",
+      "homepage": "https://github.com/GiaSip/giasip-skills/tree/main/skills/giasip-research"
+    },
+    {
+      "name": "agent-skills",
+      "description": "18 method-driven skills for knowledge work: strategy, research, writing",
+      "tags": [],
+      "repo": "tronghieu/agent-skills",
+      "homepage": "https://github.com/tronghieu/agent-skills"
     },
     {
       "name": "learn-from-materials",
@@ -7825,8 +7860,8 @@
       "name": "squirrelscan",
       "description": "Audits websites for SEO, performance, security, accessibility and returns fixes",
       "tags": [],
-      "repo": "squirrelscan/squirrelscan",
-      "homepage": "https://github.com/squirrelscan/squirrelscan/tree/main/skills"
+      "repo": "squirrelscan/skills",
+      "homepage": "https://github.com/squirrelscan/skills"
     },
     {
       "name": "markstream-install",
@@ -7969,6 +8004,20 @@
       "homepage": "https://github.com/saleh-alhaddad/itqan-engineering"
     },
     {
+      "name": "lintlang",
+      "description": "Lint agent instructions for ambiguous tools and missing bounds",
+      "tags": [],
+      "repo": "hermes-labs-ai/lintlang",
+      "homepage": "https://github.com/hermes-labs-ai/lintlang/blob/main/.agents/skills/lintlang/SKILL.md"
+    },
+    {
+      "name": "qa-skills",
+      "description": "QA engineering for AI coding agents: full lifecycle, measured gains",
+      "tags": [],
+      "repo": "fishzjp/qa-skills",
+      "homepage": "https://github.com/fishzjp/qa-skills"
+    },
+    {
       "name": "check-skill",
       "description": "Measures whether a Claude Code skill triggers: precision and recall",
       "tags": [],
@@ -7981,6 +8030,13 @@
       "tags": [],
       "repo": "lukstei/slop-grader",
       "homepage": "https://github.com/lukstei/slop-grader"
+    },
+    {
+      "name": "agmsg",
+      "description": "Message passing between Claude Code, Codex and Gemini CLI sessions",
+      "tags": [],
+      "repo": "fujibee/agmsg",
+      "homepage": "https://github.com/fujibee/agmsg"
     },
     {
       "name": "agentic-readiness-assessment",
@@ -8177,6 +8233,13 @@
       "tags": [],
       "repo": "rebelytics/one-skill-to-rule-them-all",
       "homepage": "https://github.com/rebelytics/one-skill-to-rule-them-all"
+    },
+    {
+      "name": "birdview",
+      "description": "Put architecture and constraints at the center of AI coding",
+      "tags": [],
+      "repo": "Qiuner/birdview",
+      "homepage": "https://github.com/Qiuner/birdview"
     },
     {
       "name": "universal-examprep-skill",
@@ -8513,6 +8576,13 @@
       "tags": [],
       "repo": "ilyautov/small-business-ru",
       "homepage": "https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills"
+    },
+    {
+      "name": "boss-zhipin-scraper",
+      "description": "BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries",
+      "tags": [],
+      "repo": "eatmoreduck/boss-zhipin-scraper",
+      "homepage": "https://github.com/eatmoreduck/boss-zhipin-scraper"
     },
     {
       "name": "n8n-code-javascript",
