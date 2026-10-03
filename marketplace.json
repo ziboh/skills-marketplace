@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-02T03:04:54.472Z",
-  "total": 1112,
+  "generatedAt": "2026-10-03T02:51:37.278Z",
+  "total": 1113,
   "stats": {
-    "withRepo": 1112,
+    "withRepo": 1113,
     "withoutRepo": 0
   },
   "skills": [
@@ -436,6 +436,14 @@
       "tags": [],
       "repo": "LambdaTest/agent-skills",
       "homepage": "https://github.com/LambdaTest/agent-skills/tree/main/junit-5-skill",
+      "author": "TestMu AI"
+    },
+    {
+      "name": "kanecli-skill",
+      "description": "Generate and run browser tests from natural-language objectives via kane-cli",
+      "tags": [],
+      "repo": "LambdaTest/agent-skills",
+      "homepage": "https://github.com/LambdaTest/agent-skills/tree/main/kanecli-skill",
       "author": "TestMu AI"
     },
     {
