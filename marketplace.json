@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-06T03:47:50.809Z",
-  "total": 1114,
+  "generatedAt": "2026-10-07T03:15:27.667Z",
+  "total": 1117,
   "stats": {
-    "withRepo": 1114,
+    "withRepo": 1117,
     "withoutRepo": 0
   },
   "skills": [
@@ -7053,6 +7053,13 @@
       "homepage": "https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting"
     },
     {
+      "name": "upload-post-skill",
+      "description": "Publish and schedule social media posts through one API",
+      "tags": [],
+      "repo": "Upload-Post/upload-post-skill",
+      "homepage": "https://github.com/Upload-Post/upload-post-skill"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -8047,6 +8054,13 @@
       "homepage": "https://github.com/lukstei/slop-grader"
     },
     {
+      "name": "unbrowse",
+      "description": "Search, call, and read websites via hosted API or MCP",
+      "tags": [],
+      "repo": "unbrowse-ai/unbrowse",
+      "homepage": "https://github.com/unbrowse-ai/unbrowse/tree/main/skill"
+    },
+    {
       "name": "agmsg",
       "description": "Message passing between Claude Code, Codex and Gemini CLI sessions",
       "tags": [],
@@ -8248,6 +8262,13 @@
       "tags": [],
       "repo": "rebelytics/one-skill-to-rule-them-all",
       "homepage": "https://github.com/rebelytics/one-skill-to-rule-them-all"
+    },
+    {
+      "name": "archcore",
+      "description": "Spec-driven development and context engineering for AI coding agents",
+      "tags": [],
+      "repo": "archcore-ai/archcore",
+      "homepage": "https://github.com/archcore-ai/archcore"
     },
     {
       "name": "birdview",
