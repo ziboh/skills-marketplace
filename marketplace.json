@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-07T03:15:27.667Z",
-  "total": 1117,
+  "generatedAt": "2026-10-08T03:31:00.025Z",
+  "total": 1120,
   "stats": {
-    "withRepo": 1117,
+    "withRepo": 1120,
     "withoutRepo": 0
   },
   "skills": [
@@ -7039,6 +7039,13 @@
       "homepage": "https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru"
     },
     {
+      "name": "linkedin-outreach",
+      "description": "LinkedIn prospecting, scoring, and outreach drafts through Omentir MCP",
+      "tags": [],
+      "repo": "vanshyadav1408/Omentir",
+      "homepage": "https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach"
+    },
+    {
       "name": "jev-social",
       "description": "Route local social research through Jev and socai CLI",
       "tags": [],
@@ -8073,6 +8080,20 @@
       "tags": [],
       "repo": "exadel-inc/agentic-readiness-assessment",
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
+    },
+    {
+      "name": "paranoid",
+      "description": "Pentests your running app: find, prove, patch, re-verify",
+      "tags": [],
+      "repo": "kulchankas/paranoid",
+      "homepage": "https://github.com/kulchankas/paranoid"
+    },
+    {
+      "name": "qikly",
+      "description": "Writes pytest suites from criteria the coding agent never sees",
+      "tags": [],
+      "repo": "gal-a/qikly",
+      "homepage": "https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly"
     },
     {
       "name": "context-fundamentals",
