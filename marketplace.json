@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-08T03:31:00.025Z",
-  "total": 1120,
+  "generatedAt": "2026-10-09T03:36:25.320Z",
+  "total": 1122,
   "stats": {
-    "withRepo": 1120,
+    "withRepo": 1122,
     "withoutRepo": 0
   },
   "skills": [
@@ -7361,6 +7361,13 @@
       "homepage": "https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md"
     },
     {
+      "name": "atomicmail",
+      "description": "Agent registers its own inbox, then sends and reads mail",
+      "tags": [],
+      "repo": "Atomic-Mail/atomic-mail-agentic",
+      "homepage": "https://github.com/Atomic-Mail/atomic-mail-agentic/tree/main/integrations/skill/atomicmail"
+    },
+    {
       "name": "better-writing",
       "description": "Rewrites AI-sounding prose without inventing facts; eval-tested",
       "tags": [],
@@ -8080,6 +8087,13 @@
       "tags": [],
       "repo": "exadel-inc/agentic-readiness-assessment",
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
+    },
+    {
+      "name": "cutaway",
+      "description": "Record polished demo videos of web flows with Playwright",
+      "tags": [],
+      "repo": "half144/cutaway",
+      "homepage": "https://github.com/half144/cutaway"
     },
     {
       "name": "paranoid",
