@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-11T02:50:24.086Z",
-  "total": 1122,
+  "generatedAt": "2026-10-12T03:13:44.816Z",
+  "total": 1127,
   "stats": {
-    "withRepo": 1122,
+    "withRepo": 1127,
     "withoutRepo": 0
   },
   "skills": [
@@ -7403,6 +7403,13 @@
       "homepage": "https://github.com/dmoshehun-prog/learn-from-materials"
     },
     {
+      "name": "presentation-skill",
+      "description": "Generate editable PowerPoint decks from source with visual QA.",
+      "tags": [],
+      "repo": "siril9/presentation-skill",
+      "homepage": "https://github.com/siril9/presentation-skill"
+    },
+    {
       "name": "kilo-kit-mcp",
       "description": "Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex",
       "tags": [],
@@ -8089,6 +8096,20 @@
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
     },
     {
+      "name": "better-design",
+      "description": "Build and review interfaces with Better Design design systems",
+      "tags": [],
+      "repo": "marvkr/better-design",
+      "homepage": "https://github.com/marvkr/better-design/tree/main/skills/better-design"
+    },
+    {
+      "name": "task",
+      "description": "Turns plain English into validated eval tasks for coding agents",
+      "tags": [],
+      "repo": "UiPath/coder_eval",
+      "homepage": "https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/task"
+    },
+    {
       "name": "cutaway",
       "description": "Record polished demo videos of web flows with Playwright",
       "tags": [],
@@ -8283,6 +8304,13 @@
       "tags": [],
       "repo": "vshulcz/deja-vu",
       "homepage": "https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history"
+    },
+    {
+      "name": "cavemenko",
+      "description": "Ukrainian pro-drop reply style, measured -49% tokens",
+      "tags": [],
+      "repo": "ruslanlap/cavemenko",
+      "homepage": "https://github.com/ruslanlap/cavemenko/tree/main/skills/cavemenko"
     },
     {
       "name": "subagent-cli-skills",
@@ -8654,6 +8682,13 @@
       "tags": [],
       "repo": "eatmoreduck/boss-zhipin-scraper",
       "homepage": "https://github.com/eatmoreduck/boss-zhipin-scraper"
+    },
+    {
+      "name": "blender-kiln",
+      "description": "Text or photo to game-ready GLB through Blender MCP",
+      "tags": [],
+      "repo": "elithril/blender-kiln",
+      "homepage": "https://github.com/elithril/blender-kiln/tree/main/plugin"
     },
     {
       "name": "n8n-code-javascript",
