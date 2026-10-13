@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-12T03:13:44.816Z",
-  "total": 1127,
+  "generatedAt": "2026-10-13T04:29:15.329Z",
+  "total": 1130,
   "stats": {
-    "withRepo": 1127,
+    "withRepo": 1130,
     "withoutRepo": 0
   },
   "skills": [
@@ -8033,11 +8033,11 @@
       "homepage": "https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md"
     },
     {
-      "name": "cursor-kenji",
+      "name": "skills",
       "description": "Ready-made playbooks your coding agent auto-triggers",
       "tags": [],
-      "repo": "kensaurus/cursor-kenji",
-      "homepage": "https://github.com/kensaurus/cursor-kenji"
+      "repo": "kensaurus/skills",
+      "homepage": "https://github.com/kensaurus/skills"
     },
     {
       "name": "itqan-engineering",
@@ -8096,6 +8096,20 @@
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
     },
     {
+      "name": "little-canary",
+      "description": "Screen inbound text with a sacrificial canary",
+      "tags": [],
+      "repo": "hermes-labs-ai/little-canary",
+      "homepage": "https://github.com/hermes-labs-ai/little-canary/blob/main/.agents/skills/little-canary/SKILL.md"
+    },
+    {
+      "name": "bestax",
+      "description": "Build Bulma React pages, forms, and themes with Bestax",
+      "tags": [],
+      "repo": "allxsmith/bestax",
+      "homepage": "https://github.com/allxsmith/bestax/tree/main/skills"
+    },
+    {
       "name": "better-design",
       "description": "Build and review interfaces with Better Design design systems",
       "tags": [],
@@ -8129,6 +8143,13 @@
       "tags": [],
       "repo": "gal-a/qikly",
       "homepage": "https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly"
+    },
+    {
+      "name": "skills",
+      "description": "Official Prisma skills: ORM, Postgres, Compute and migrations",
+      "tags": [],
+      "repo": "prisma/skills",
+      "homepage": "https://github.com/prisma/skills"
     },
     {
       "name": "context-fundamentals",
