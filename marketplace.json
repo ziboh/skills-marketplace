@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-13T04:29:15.329Z",
-  "total": 1130,
+  "generatedAt": "2026-10-14T02:38:44.816Z",
+  "total": 1131,
   "stats": {
-    "withRepo": 1130,
+    "withRepo": 1131,
     "withoutRepo": 0
   },
   "skills": [
@@ -7086,6 +7086,13 @@
       "tags": [],
       "repo": "zarazhangrui/frontend-slides",
       "homepage": "https://github.com/zarazhangrui/frontend-slides"
+    },
+    {
+      "name": "agy-ppt",
+      "description": "Generate PowerPoint decks without the AI-slop look, purpose-built for the Antigravity+Kiro+Codex pipeline; GPT image rendering handles dense Traditional Chinese slide text far better than Gemini",
+      "tags": [],
+      "repo": "sujunmin/agy-ppt",
+      "homepage": "https://github.com/sujunmin/agy-ppt"
     },
     {
       "name": "integrate-whatsapp",
