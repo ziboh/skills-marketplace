@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-15T02:18:52.162Z",
-  "total": 1131,
+  "generatedAt": "2026-10-16T02:10:55.777Z",
+  "total": 1138,
   "stats": {
-    "withRepo": 1131,
+    "withRepo": 1138,
     "withoutRepo": 0
   },
   "skills": [
@@ -7060,11 +7060,25 @@
       "homepage": "https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting"
     },
     {
+      "name": "formosa-humanizer",
+      "description": "Removes AI-writing markers from Taiwan Traditional Chinese text",
+      "tags": [],
+      "repo": "nagameTW/formosa-humanizer",
+      "homepage": "https://github.com/nagameTW/formosa-humanizer"
+    },
+    {
       "name": "upload-post-skill",
       "description": "Publish and schedule social media posts through one API",
       "tags": [],
       "repo": "Upload-Post/upload-post-skill",
       "homepage": "https://github.com/Upload-Post/upload-post-skill"
+    },
+    {
+      "name": "skills",
+      "description": "Draft, schedule and publish posts to ten social networks",
+      "tags": [],
+      "repo": "publora/skills",
+      "homepage": "https://github.com/publora/skills"
     },
     {
       "name": "nutrient-agent-skill",
@@ -8103,6 +8117,27 @@
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
     },
     {
+      "name": "opentelemetry-agent-skills",
+      "description": "Vendor-neutral OpenTelemetry skills: SDKs, Collector, OTTL, semantic conventions",
+      "tags": [],
+      "repo": "ollygarden/opentelemetry-agent-skills",
+      "homepage": "https://github.com/ollygarden/opentelemetry-agent-skills"
+    },
+    {
+      "name": "multi",
+      "description": "several models review the same code, one merged report",
+      "tags": [],
+      "repo": "szarkans/multi",
+      "homepage": "https://github.com/szarkans/multi"
+    },
+    {
+      "name": "cline-pilot",
+      "description": "Delegate coding tasks to Cline CLI with context management",
+      "tags": [],
+      "repo": "gongdear/cline-pilot",
+      "homepage": "https://github.com/gongdear/cline-pilot"
+    },
+    {
       "name": "little-canary",
       "description": "Screen inbound text with a sacrificial canary",
       "tags": [],
@@ -8157,6 +8192,13 @@
       "tags": [],
       "repo": "prisma/skills",
       "homepage": "https://github.com/prisma/skills"
+    },
+    {
+      "name": "oil-ui",
+      "description": "Unlock AI design potential through UI exploration and visual review",
+      "tags": [],
+      "repo": "oil-oil/oil-ui",
+      "homepage": "https://github.com/oil-oil/oil-ui"
     },
     {
       "name": "context-fundamentals",
@@ -8710,6 +8752,13 @@
       "tags": [],
       "repo": "eatmoreduck/boss-zhipin-scraper",
       "homepage": "https://github.com/eatmoreduck/boss-zhipin-scraper"
+    },
+    {
+      "name": "cloud-finops-skills",
+      "description": "FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend",
+      "tags": [],
+      "repo": "OptimNow/cloud-finops-skills",
+      "homepage": "https://github.com/OptimNow/cloud-finops-skills/tree/main/skills/cloud-finops"
     },
     {
       "name": "blender-kiln",
