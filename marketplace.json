@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-19T02:20:32.273Z",
-  "total": 1138,
+  "generatedAt": "2026-10-20T02:34:14.400Z",
+  "total": 1144,
   "stats": {
-    "withRepo": 1138,
+    "withRepo": 1144,
     "withoutRepo": 0
   },
   "skills": [
@@ -7424,6 +7424,13 @@
       "homepage": "https://github.com/dmoshehun-prog/learn-from-materials"
     },
     {
+      "name": "hermes-telegram-checklist",
+      "description": "Create and manage native Telegram checklists with verified writes",
+      "tags": [],
+      "repo": "bablobanov/hermes-telegram-checklist",
+      "homepage": "https://github.com/bablobanov/hermes-telegram-checklist"
+    },
+    {
       "name": "presentation-skill",
       "description": "Generate editable PowerPoint decks from source with visual QA.",
       "tags": [],
@@ -8117,6 +8124,13 @@
       "homepage": "https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment"
     },
     {
+      "name": "3d-logo",
+      "description": "Turn any logo into a 3D spinning coin React component",
+      "tags": [],
+      "repo": "hasuwini77/3d-logo-skill",
+      "homepage": "https://github.com/hasuwini77/3d-logo-skill"
+    },
+    {
       "name": "opentelemetry-agent-skills",
       "description": "Vendor-neutral OpenTelemetry skills: SDKs, Collector, OTTL, semantic conventions",
       "tags": [],
@@ -8199,6 +8213,13 @@
       "tags": [],
       "repo": "oil-oil/oil-ui",
       "homepage": "https://github.com/oil-oil/oil-ui"
+    },
+    {
+      "name": "privacyscrubber-guard",
+      "description": "Sanitize PII and secrets in RAM before agent calls",
+      "tags": [],
+      "repo": "moxno/privacyscrubber-mcp",
+      "homepage": "https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard"
     },
     {
       "name": "context-fundamentals",
@@ -8754,6 +8775,20 @@
       "homepage": "https://github.com/eatmoreduck/boss-zhipin-scraper"
     },
     {
+      "name": "fish-audio",
+      "description": "Generate speech and clone voices with Fish Audio",
+      "tags": [],
+      "repo": "AceDataCloud/Skills",
+      "homepage": "https://github.com/AceDataCloud/Skills/tree/main/skills/fish-audio"
+    },
+    {
+      "name": "handraw-style",
+      "description": "Hand-drawn illustration styles, layouts, and prompts for image generation",
+      "tags": [],
+      "repo": "yang0/handraw-style",
+      "homepage": "https://github.com/yang0/handraw-style"
+    },
+    {
       "name": "cloud-finops-skills",
       "description": "FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend",
       "tags": [],
@@ -8766,6 +8801,13 @@
       "tags": [],
       "repo": "elithril/blender-kiln",
       "homepage": "https://github.com/elithril/blender-kiln/tree/main/plugin"
+    },
+    {
+      "name": "claudemy",
+      "description": "Any topic into 2-minute audio lessons with cited sources",
+      "tags": [],
+      "repo": "assafkip/claudemy",
+      "homepage": "https://github.com/assafkip/claudemy"
     },
     {
       "name": "n8n-code-javascript",
