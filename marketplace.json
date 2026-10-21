@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-20T02:34:14.400Z",
-  "total": 1144,
+  "generatedAt": "2026-10-21T02:28:24.899Z",
+  "total": 1145,
   "stats": {
-    "withRepo": 1144,
+    "withRepo": 1145,
     "withoutRepo": 0
   },
   "skills": [
@@ -7072,6 +7072,13 @@
       "tags": [],
       "repo": "Upload-Post/upload-post-skill",
       "homepage": "https://github.com/Upload-Post/upload-post-skill"
+    },
+    {
+      "name": "yuwen-publish-precheck",
+      "description": "Review Chinese social content before publishing, with source-backed corrections",
+      "tags": [],
+      "repo": "yuwen-cool/yuwen-publish-precheck",
+      "homepage": "https://github.com/yuwen-cool/yuwen-publish-precheck"
     },
     {
       "name": "skills",
