@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-22T02:24:29.704Z",
-  "total": 1145,
+  "generatedAt": "2026-10-23T02:29:47.933Z",
+  "total": 1148,
   "stats": {
-    "withRepo": 1145,
+    "withRepo": 1148,
     "withoutRepo": 0
   },
   "skills": [
@@ -7018,13 +7018,6 @@
       "homepage": "https://github.com/Nanako0129/sepia"
     },
     {
-      "name": "marketing-mindset",
-      "description": "Marketing OS for AI agents — think like a marketer first, get tactics as the output",
-      "tags": [],
-      "repo": "axelfreeman/marketing-mindset",
-      "homepage": "https://github.com/axelfreeman/marketing-mindset"
-    },
-    {
       "name": "social-media-research-skills",
       "description": "Research social outliers, comments, competitors, ads, and trends",
       "tags": [],
@@ -7443,6 +7436,20 @@
       "tags": [],
       "repo": "siril9/presentation-skill",
       "homepage": "https://github.com/siril9/presentation-skill"
+    },
+    {
+      "name": "placecall",
+      "description": "Calls US businesses by phone and returns outcome and transcript",
+      "tags": [],
+      "repo": "voygr-tech/placecall",
+      "homepage": "https://github.com/voygr-tech/placecall/tree/main/skills/placecall"
+    },
+    {
+      "name": "slide-wright",
+      "description": "Generate themed HTML slide decks, export to PowerPoint or PDF",
+      "tags": [],
+      "repo": "arifszn/slide-wright",
+      "homepage": "https://github.com/arifszn/slide-wright"
     },
     {
       "name": "kilo-kit-mcp",
@@ -8222,11 +8229,25 @@
       "homepage": "https://github.com/oil-oil/oil-ui"
     },
     {
+      "name": "cc-tree",
+      "description": "Auditable radial-tree exploration for brainstorming, critique, design and code audit",
+      "tags": [],
+      "repo": "skymanbp/cc-tree",
+      "homepage": "https://github.com/skymanbp/cc-tree"
+    },
+    {
       "name": "privacyscrubber-guard",
       "description": "Sanitize PII and secrets in RAM before agent calls",
       "tags": [],
       "repo": "moxno/privacyscrubber-mcp",
       "homepage": "https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard"
+    },
+    {
+      "name": "vovk",
+      "description": "Next.js API routes as MCP tools and typed clients",
+      "tags": [],
+      "repo": "finom/vovk",
+      "homepage": "https://github.com/finom/vovk/tree/main/skills"
     },
     {
       "name": "context-fundamentals",
