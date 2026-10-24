@@ -8,7 +8,7 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-23T02:29:47.933Z",
+  "generatedAt": "2026-10-24T02:27:59.606Z",
   "total": 1148,
   "stats": {
     "withRepo": 1148,
@@ -7292,10 +7292,10 @@
     },
     {
       "name": "career-ops",
-      "description": "14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI",
+      "description": "Scores jobs against your CV, tailors resumes, tracks applications",
       "tags": [],
-      "repo": "santifer/career-ops",
-      "homepage": "https://github.com/santifer/career-ops"
+      "repo": "career-ops-hq/career-ops",
+      "homepage": "https://github.com/career-ops-hq/career-ops"
     },
     {
       "name": "linkedin",
