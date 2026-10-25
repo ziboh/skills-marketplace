@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-24T02:27:59.606Z",
-  "total": 1148,
+  "generatedAt": "2026-10-25T02:14:59.748Z",
+  "total": 1149,
   "stats": {
-    "withRepo": 1148,
+    "withRepo": 1149,
     "withoutRepo": 0
   },
   "skills": [
@@ -8829,6 +8829,13 @@
       "tags": [],
       "repo": "elithril/blender-kiln",
       "homepage": "https://github.com/elithril/blender-kiln/tree/main/plugin"
+    },
+    {
+      "name": "metamask-agent-wallet",
+      "description": "Official MetaMask self-custodial wallet: swaps, bridges, perps, x402 payments",
+      "tags": [],
+      "repo": "MetaMask/agent-skills",
+      "homepage": "https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet"
     },
     {
       "name": "claudemy",
