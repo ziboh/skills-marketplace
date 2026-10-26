@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-25T02:14:59.748Z",
-  "total": 1149,
+  "generatedAt": "2026-10-26T02:15:24.210Z",
+  "total": 1153,
   "stats": {
-    "withRepo": 1149,
+    "withRepo": 1153,
     "withoutRepo": 0
   },
   "skills": [
@@ -7081,6 +7081,13 @@
       "homepage": "https://github.com/publora/skills"
     },
     {
+      "name": "apify-reddit-scraper",
+      "description": "Scrape Reddit posts, comments and subreddits without an API key",
+      "tags": [],
+      "repo": "apify/awesome-skills",
+      "homepage": "https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -7422,6 +7429,13 @@
       "tags": [],
       "repo": "dmoshehun-prog/learn-from-materials",
       "homepage": "https://github.com/dmoshehun-prog/learn-from-materials"
+    },
+    {
+      "name": "kordoc",
+      "description": "Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX",
+      "tags": [],
+      "repo": "chrisryugj/kordoc",
+      "homepage": "https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc"
     },
     {
       "name": "hermes-telegram-checklist",
@@ -8243,6 +8257,13 @@
       "homepage": "https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard"
     },
     {
+      "name": "agent-verifier",
+      "description": "Reviews AI agent code for secrets, unbounded loops, hallucinated tools",
+      "tags": [],
+      "repo": "Aurite-ai/agent-verifier",
+      "homepage": "https://github.com/Aurite-ai/agent-verifier"
+    },
+    {
       "name": "vovk",
       "description": "Next.js API routes as MCP tools and typed clients",
       "tags": [],
@@ -8744,7 +8765,7 @@
       "description": "Reverse-engineer binaries, applications, and runtimes with REA",
       "tags": [],
       "repo": "morluto/rea",
-      "homepage": "https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything"
+      "homepage": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything"
     },
     {
       "name": "news-api-skills",
@@ -8843,6 +8864,13 @@
       "tags": [],
       "repo": "assafkip/claudemy",
       "homepage": "https://github.com/assafkip/claudemy"
+    },
+    {
+      "name": "eCommerce-Skills",
+      "description": "150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers",
+      "tags": [],
+      "repo": "nexscope-ai/eCommerce-Skills",
+      "homepage": "https://github.com/nexscope-ai/eCommerce-Skills"
     },
     {
       "name": "n8n-code-javascript",
