@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-27T02:51:22.107Z",
-  "total": 1153,
+  "generatedAt": "2026-10-28T02:59:01.105Z",
+  "total": 1156,
   "stats": {
-    "withRepo": 1153,
+    "withRepo": 1156,
     "withoutRepo": 0
   },
   "skills": [
@@ -7452,6 +7452,13 @@
       "homepage": "https://github.com/siril9/presentation-skill"
     },
     {
+      "name": "audio-tldr",
+      "description": "Summarize videos and podcasts with local, cached transcription",
+      "tags": [],
+      "repo": "AugustusW/audio-tldr-skill",
+      "homepage": "https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr"
+    },
+    {
       "name": "placecall",
       "description": "Calls US businesses by phone and returns outcome and transcript",
       "tags": [],
@@ -8229,11 +8236,25 @@
       "homepage": "https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly"
     },
     {
+      "name": "supercov",
+      "description": "Measure test coverage and write tests for untested code",
+      "tags": [],
+      "repo": "supercorp-ai/supercov",
+      "homepage": "https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov"
+    },
+    {
       "name": "skills",
       "description": "Official Prisma skills: ORM, Postgres, Compute and migrations",
       "tags": [],
       "repo": "prisma/skills",
       "homepage": "https://github.com/prisma/skills"
+    },
+    {
+      "name": "tushar-skills",
+      "description": "34 workflow skills for deploys, outreach, fundraising, specs, launches",
+      "tags": [],
+      "repo": "tushaarmehtaa/tushar-skills",
+      "homepage": "https://github.com/tushaarmehtaa/tushar-skills"
     },
     {
       "name": "oil-ui",
