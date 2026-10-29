@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-28T02:59:01.105Z",
-  "total": 1156,
+  "generatedAt": "2026-10-29T03:25:52.824Z",
+  "total": 1170,
   "stats": {
-    "withRepo": 1156,
+    "withRepo": 1170,
     "withoutRepo": 0
   },
   "skills": [
@@ -6956,7 +6956,7 @@
     },
     {
       "name": "humanizer-ru",
-      "description": "Removes AI-writing markers from Russian text",
+      "description": "Rewrites AI-written Russian text while preserving numbers, dates, and names",
       "tags": [],
       "repo": "Vladimir-Human/humanizer-ru",
       "homepage": "https://github.com/Vladimir-Human/humanizer-ru"
@@ -7067,6 +7067,13 @@
       "homepage": "https://github.com/Upload-Post/upload-post-skill"
     },
     {
+      "name": "product-launch-motion",
+      "description": "Website URL to 60 fps launch video with music.",
+      "tags": [],
+      "repo": "AbubakrChan/product-launch-motion",
+      "homepage": "https://github.com/AbubakrChan/product-launch-motion"
+    },
+    {
       "name": "yuwen-publish-precheck",
       "description": "Review Chinese social content before publishing, with source-backed corrections",
       "tags": [],
@@ -7079,6 +7086,20 @@
       "tags": [],
       "repo": "publora/skills",
       "homepage": "https://github.com/publora/skills"
+    },
+    {
+      "name": "claude-skills-founder",
+      "description": "Validate ideas, research competitors, price, pitch, and plan launches.",
+      "tags": [],
+      "repo": "emotixco/claude-skills-founder",
+      "homepage": "https://github.com/emotixco/claude-skills-founder"
+    },
+    {
+      "name": "croftweaver",
+      "description": "Builds small-business websites, then keeps improving their SEO and GEO",
+      "tags": [],
+      "repo": "karero/croftweaver",
+      "homepage": "https://github.com/karero/croftweaver"
     },
     {
       "name": "apify-reddit-scraper",
@@ -7452,6 +7473,27 @@
       "homepage": "https://github.com/siril9/presentation-skill"
     },
     {
+      "name": "bro",
+      "description": "Re-explains the last reply in plain language",
+      "tags": [],
+      "repo": "luchasarie/bro-skill",
+      "homepage": "https://github.com/luchasarie/bro-skill"
+    },
+    {
+      "name": "call-me",
+      "description": "Agent phones your iPhone and returns your spoken answer",
+      "tags": [],
+      "repo": "radres/call-me",
+      "homepage": "https://github.com/radres/call-me/tree/main/skill"
+    },
+    {
+      "name": "ai-agent-skills",
+      "description": "Structured thinking skills: five whys, pre-mortem, trade-offs",
+      "tags": [],
+      "repo": "ysskrishna/ai-agent-skills",
+      "homepage": "https://github.com/ysskrishna/ai-agent-skills"
+    },
+    {
       "name": "audio-tldr",
       "description": "Summarize videos and podcasts with local, cached transcription",
       "tags": [],
@@ -7471,6 +7513,13 @@
       "tags": [],
       "repo": "arifszn/slide-wright",
       "homepage": "https://github.com/arifszn/slide-wright"
+    },
+    {
+      "name": "docx-cli",
+      "description": "Work on .docx files at ~1/2 cost of other skills.",
+      "tags": [],
+      "repo": "kklimuk/docx-cli",
+      "homepage": "https://github.com/kklimuk/docx-cli"
     },
     {
       "name": "kilo-kit-mcp",
@@ -8250,6 +8299,13 @@
       "homepage": "https://github.com/prisma/skills"
     },
     {
+      "name": "evaluate-skill",
+      "description": "Measures skill reliability with repeated runs, with and without it",
+      "tags": [],
+      "repo": "edonadei/caliper",
+      "homepage": "https://github.com/edonadei/caliper/tree/main/skills/evaluate-skill"
+    },
+    {
       "name": "tushar-skills",
       "description": "34 workflow skills for deploys, outreach, fundraising, specs, launches",
       "tags": [],
@@ -8276,6 +8332,27 @@
       "tags": [],
       "repo": "moxno/privacyscrubber-mcp",
       "homepage": "https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard"
+    },
+    {
+      "name": "oh-my-hermes",
+      "description": "Workflow skills, project memory, and model routing for Hermes Agent",
+      "tags": [],
+      "repo": "rlaope/oh-my-hermes",
+      "homepage": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "name": "fsb",
+      "description": "Drive your signed-in Chromium browser through FSB's MCP tools",
+      "tags": [],
+      "repo": "fullselfbrowsing/FSB",
+      "homepage": "https://github.com/fullselfbrowsing/FSB/tree/main/skills/fsb"
+    },
+    {
+      "name": "oh-my-agent",
+      "description": "Harness skills linked into Claude Code, Codex, Cursor and more",
+      "tags": [],
+      "repo": "first-fluke/oh-my-agent",
+      "homepage": "https://github.com/first-fluke/oh-my-agent"
     },
     {
       "name": "agent-verifier",
@@ -8500,6 +8577,13 @@
       "tags": [],
       "repo": "Qiuner/birdview",
       "homepage": "https://github.com/Qiuner/birdview"
+    },
+    {
+      "name": "chisle",
+      "description": "Cuts agent tokens: terse prose, lean code, trimmed tool output",
+      "tags": [],
+      "repo": "JayPokale/Chisle",
+      "homepage": "https://github.com/JayPokale/Chisle/tree/main/skills/chisle"
     },
     {
       "name": "universal-examprep-skill",
@@ -8871,6 +8955,20 @@
       "tags": [],
       "repo": "elithril/blender-kiln",
       "homepage": "https://github.com/elithril/blender-kiln/tree/main/plugin"
+    },
+    {
+      "name": "remove-ai-watermarks",
+      "description": "Remove AI watermarks and provenance metadata from images you own",
+      "tags": [],
+      "repo": "wiltodelta/remove-ai-watermarks",
+      "homepage": "https://github.com/wiltodelta/remove-ai-watermarks/tree/main/skills/remove-ai-watermarks"
+    },
+    {
+      "name": "unifly",
+      "description": "Inspect and manage Ubiquiti UniFi networks through the unifly CLI",
+      "tags": [],
+      "repo": "hyperb1iss/unifly",
+      "homepage": "https://github.com/hyperb1iss/unifly/tree/main/skills/unifly"
     },
     {
       "name": "metamask-agent-wallet",
