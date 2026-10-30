@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-29T03:25:52.824Z",
-  "total": 1170,
+  "generatedAt": "2026-10-30T03:28:11.932Z",
+  "total": 1218,
   "stats": {
-    "withRepo": 1170,
+    "withRepo": 1218,
     "withoutRepo": 0
   },
   "skills": [
@@ -1340,6 +1340,78 @@
       "tags": [],
       "repo": "vercel-labs/skills",
       "homepage": "https://officialskills.sh/vercel-labs/skills/next-upgrade",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "composition-patterns",
+      "description": "Scalable React composition patterns for reusable component APIs",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "deploy-to-vercel",
+      "description": "Deploy applications and websites to Vercel",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/deploy-to-vercel",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "react-best-practices",
+      "description": "React and Next.js performance optimization guidelines",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "react-native-skills",
+      "description": "React Native and Expo best practices for performant apps",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "react-view-transitions",
+      "description": "Native-feeling animations with React View Transitions",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "vercel-cli-with-tokens",
+      "description": "Deploy and manage Vercel projects with token authentication",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-cli-with-tokens",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "vercel-optimize",
+      "description": "Metric-backed Vercel cost and performance optimization audits",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-optimize",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "web-design-guidelines",
+      "description": "Review UI code against Web Interface Guidelines",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines",
+      "author": "Vercel Engineering Team"
+    },
+    {
+      "name": "writing-guidelines",
+      "description": "Review documentation against Writing Guidelines",
+      "tags": [],
+      "repo": "vercel-labs/agent-skills",
+      "homepage": "https://github.com/vercel-labs/agent-skills/tree/main/skills/writing-guidelines",
       "author": "Vercel Engineering Team"
     },
     {
@@ -7088,6 +7160,167 @@
       "homepage": "https://github.com/publora/skills"
     },
     {
+      "name": "skills",
+      "description": "Draft, schedule and publish social posts to nine networks",
+      "tags": [],
+      "repo": "posteyai/skills",
+      "homepage": "https://github.com/posteyai/skills"
+    },
+    {
+      "name": "humanizer-zh-next",
+      "description": "Chinese writing editor with academic and grant proposal modes",
+      "tags": [],
+      "repo": "Hyacehila/humanizer-zh-next",
+      "homepage": "https://github.com/Hyacehila/humanizer-zh-next"
+    },
+    {
+      "name": "cold-email-salesblink",
+      "description": "Run cold email sequences and outreach campaigns via SalesBlink",
+      "tags": [],
+      "repo": "open-salesblink/skill",
+      "homepage": "https://github.com/open-salesblink/skill/tree/main/skills/cold-email-salesblink"
+    },
+    {
+      "name": "social-auto-upload",
+      "description": "Cross-platform publishing CLI and skills for 17 social platforms",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/social-auto-upload"
+    },
+    {
+      "name": "alipay-upload",
+      "description": "Publish video posts to Alipay Life Services",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/alipay-upload"
+    },
+    {
+      "name": "baijiahao-upload",
+      "description": "Publish videos to Baijiahao",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/baijiahao-upload"
+    },
+    {
+      "name": "bilibili-upload",
+      "description": "Upload videos to Bilibili with category selection",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/bilibili-upload"
+    },
+    {
+      "name": "dayu-upload",
+      "description": "Publish videos and articles to Dayuhao",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/dayu-upload"
+    },
+    {
+      "name": "douyin-upload",
+      "description": "Publish videos and image-text posts to Douyin",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/douyin-upload"
+    },
+    {
+      "name": "facebook-upload",
+      "description": "Publish video and image posts to Facebook profiles",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/facebook-upload"
+    },
+    {
+      "name": "hupu-upload",
+      "description": "Publish video posts to Hupu",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/hupu-upload"
+    },
+    {
+      "name": "instagram-upload",
+      "description": "Publish Reels, images, and carousels to Instagram",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/instagram-upload"
+    },
+    {
+      "name": "kuaishou-upload",
+      "description": "Publish videos and image-text posts to Kuaishou",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/kuaishou-upload"
+    },
+    {
+      "name": "meta-upload",
+      "description": "Schedule videos and image posts to Facebook Pages",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/meta-upload"
+    },
+    {
+      "name": "tencent-upload",
+      "description": "Publish and schedule videos on WeChat Channels",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/tencent-upload"
+    },
+    {
+      "name": "tiktok-upload",
+      "description": "Upload TikTok videos with the repository's Chrome uploader",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/tiktok-upload"
+    },
+    {
+      "name": "weibo-upload",
+      "description": "Publish videos to Weibo",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/weibo-upload"
+    },
+    {
+      "name": "xiaohongshu-upload",
+      "description": "Publish videos and image-text posts to Xiaohongshu",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/xiaohongshu-upload"
+    },
+    {
+      "name": "xueqiu-upload",
+      "description": "Publish long-form articles to Xueqiu",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/xueqiu-upload"
+    },
+    {
+      "name": "youtube-upload",
+      "description": "Upload and schedule YouTube videos",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/youtube-upload"
+    },
+    {
+      "name": "zhihu-upload",
+      "description": "Publish articles and videos to Zhihu",
+      "tags": [],
+      "repo": "dreammis/social-auto-upload",
+      "homepage": "https://github.com/dreammis/social-auto-upload/tree/main/skills/zhihu-upload"
+    },
+    {
+      "name": "ecommerce-skills",
+      "description": "19 research-based skills for ecommerce pricing, discounts, and checkout",
+      "tags": [],
+      "repo": "checkout-page/ecommerce-skills",
+      "homepage": "https://github.com/checkout-page/ecommerce-skills"
+    },
+    {
+      "name": "saas-marketing-agents",
+      "description": "B2B SaaS marketing team: 90 agents, one orchestrator",
+      "tags": [],
+      "repo": "shalintripathi/saas-marketing-agents",
+      "homepage": "https://github.com/shalintripathi/saas-marketing-agents"
+    },
+    {
       "name": "claude-skills-founder",
       "description": "Validate ideas, research competitors, price, pitch, and plan launches.",
       "tags": [],
@@ -7107,6 +7340,13 @@
       "tags": [],
       "repo": "apify/awesome-skills",
       "homepage": "https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper"
+    },
+    {
+      "name": "skills",
+      "description": "Marketing, sales and finance analytics with live business data",
+      "tags": [],
+      "repo": "coupler-io/skills",
+      "homepage": "https://github.com/coupler-io/skills"
     },
     {
       "name": "nutrient-agent-skill",
@@ -7383,7 +7623,7 @@
     },
     {
       "name": "job-application-agent",
-      "description": "Privacy-first job discovery and tracking",
+      "description": "JobAppAgent: free MIT open-source job application agent, one verified résumé",
       "tags": [],
       "repo": "vaibhavarora14/job-application-agent",
       "homepage": "https://github.com/vaibhavarora14/job-application-agent"
@@ -7473,6 +7713,20 @@
       "homepage": "https://github.com/siril9/presentation-skill"
     },
     {
+      "name": "teable-assistant-ops",
+      "description": "Manage [Teable](https://teable.ai) data, SQL queries, automations, and apps.",
+      "tags": [],
+      "repo": "teableio/agent-skills",
+      "homepage": "https://github.com/teableio/agent-skills/tree/main/skills/teable-assistant-ops"
+    },
+    {
+      "name": "headcount",
+      "description": "Company departments as installable skills, each citing its sources",
+      "tags": [],
+      "repo": "cbrock84/headcount",
+      "homepage": "https://github.com/cbrock84/headcount"
+    },
+    {
       "name": "bro",
       "description": "Re-explains the last reply in plain language",
       "tags": [],
@@ -7515,11 +7769,32 @@
       "homepage": "https://github.com/arifszn/slide-wright"
     },
     {
+      "name": "m91-skill",
+      "description": "Ask a human for approval on their phone",
+      "tags": [],
+      "repo": "MSG91/m91-skill",
+      "homepage": "https://github.com/MSG91/m91-skill"
+    },
+    {
       "name": "docx-cli",
       "description": "Work on .docx files at ~1/2 cost of other skills.",
       "tags": [],
       "repo": "kklimuk/docx-cli",
       "homepage": "https://github.com/kklimuk/docx-cli"
+    },
+    {
+      "name": "agent-notifications",
+      "description": "Send desktop attention and progress alerts during agent tasks",
+      "tags": [],
+      "repo": "777genius/agent-notifications",
+      "homepage": "https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications"
+    },
+    {
+      "name": "brewpage-publish",
+      "description": "Publish pages, files or folder sites to shareable brewpage.app links",
+      "tags": [],
+      "repo": "kochetkov-ma/claude-brewcode",
+      "homepage": "https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish"
     },
     {
       "name": "kilo-kit-mcp",
@@ -8334,6 +8609,13 @@
       "homepage": "https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard"
     },
     {
+      "name": "sno-station-skills",
+      "description": "Claude Code and Codex skills: cross-vendor review, quota handoff",
+      "tags": [],
+      "repo": "sno-ai/sno-station-skills",
+      "homepage": "https://github.com/sno-ai/sno-station-skills"
+    },
+    {
       "name": "oh-my-hermes",
       "description": "Workflow skills, project memory, and model routing for Hermes Agent",
       "tags": [],
@@ -8367,6 +8649,34 @@
       "tags": [],
       "repo": "finom/vovk",
       "homepage": "https://github.com/finom/vovk/tree/main/skills"
+    },
+    {
+      "name": "capgo-skills",
+      "description": "Capacitor app upgrades, live updates, native builds and migrations",
+      "tags": [],
+      "repo": "Cap-go/capgo-skills",
+      "homepage": "https://github.com/Cap-go/capgo-skills"
+    },
+    {
+      "name": "multi-llm",
+      "description": "Reviews plans, code, and commits with multiple coding CLIs.",
+      "tags": [],
+      "repo": "beastlabai/multi-llm-plugin",
+      "homepage": "https://github.com/beastlabai/multi-llm-plugin/tree/master/skills/multi-llm"
+    },
+    {
+      "name": "rederive",
+      "description": "Understand any codebase by re-designing its decisions from first principles",
+      "tags": [],
+      "repo": "EricJujianZou/rederive",
+      "homepage": "https://github.com/EricJujianZou/rederive"
+    },
+    {
+      "name": "zh-code-reviewer",
+      "description": "Chinese-output code review skill with structured findings and fix suggestions",
+      "tags": [],
+      "repo": "laolaoshiren/claude-code-skills-zh",
+      "homepage": "https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer"
     },
     {
       "name": "context-fundamentals",
@@ -8549,6 +8859,13 @@
       "tags": [],
       "repo": "ruslanlap/cavemenko",
       "homepage": "https://github.com/ruslanlap/cavemenko/tree/main/skills/cavemenko"
+    },
+    {
+      "name": "vicem",
+      "description": "Cross-agent context baton and 80-90% lossless code skeletonizer",
+      "tags": [],
+      "repo": "RAKKUNN/vicem",
+      "homepage": "https://github.com/RAKKUNN/vicem"
     },
     {
       "name": "subagent-cli-skills",
@@ -8985,11 +9302,32 @@
       "homepage": "https://github.com/assafkip/claudemy"
     },
     {
+      "name": "verdikta-bounties-onboarding",
+      "description": "Hunt and post AI-judged escrow bounties on Base",
+      "tags": [],
+      "repo": "verdikta/verdikta-applications",
+      "homepage": "https://github.com/verdikta/verdikta-applications/tree/main/skills/verdikta-bounties-onboarding"
+    },
+    {
       "name": "eCommerce-Skills",
       "description": "150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers",
       "tags": [],
       "repo": "nexscope-ai/eCommerce-Skills",
       "homepage": "https://github.com/nexscope-ai/eCommerce-Skills"
+    },
+    {
+      "name": "jgs-se-knowledge-packs",
+      "description": "71 licence-vetted systems-engineering reference packs for coding agents",
+      "tags": [],
+      "repo": "jgsystemsconsulting/jgs-se-knowledge-packs",
+      "homepage": "https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs"
+    },
+    {
+      "name": "research-agent-skills",
+      "description": "280+ skills for literature review, analysis, and paper writing",
+      "tags": [],
+      "repo": "KalarisLabs/research-agent-skills",
+      "homepage": "https://github.com/KalarisLabs/research-agent-skills"
     },
     {
       "name": "n8n-code-javascript",
@@ -9039,6 +9377,13 @@
       "tags": [],
       "repo": "czlonkowski/n8n-skills",
       "homepage": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns"
+    },
+    {
+      "name": "penthera",
+      "description": "Offline rule-based security checks for repos, dependencies and agent configs",
+      "tags": [],
+      "repo": "danoszz/penthera",
+      "homepage": "https://github.com/danoszz/penthera/tree/main/skills/penthera"
     }
   ]
 }
