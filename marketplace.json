@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-10-30T03:28:11.932Z",
-  "total": 1218,
+  "generatedAt": "2026-10-31T03:13:05.711Z",
+  "total": 1220,
   "stats": {
-    "withRepo": 1218,
+    "withRepo": 1220,
     "withoutRepo": 0
   },
   "skills": [
@@ -6894,6 +6894,13 @@
       "homepage": "https://github.com/qdrant/skills"
     },
     {
+      "name": "milvus-skill",
+      "description": "Manage Milvus collections, indexes, vector searches, and RAG workflows",
+      "tags": [],
+      "repo": "zilliztech/milvus-skill",
+      "homepage": "https://github.com/zilliztech/milvus-skill"
+    },
+    {
       "name": "ai-marketing-claude-code-skills",
       "description": "17 marketing frameworks for cold outreach, homepage audit, social cards, and more",
       "tags": [],
@@ -6983,6 +6990,13 @@
       "tags": [],
       "repo": "gitroomhq/postiz-agent",
       "homepage": "https://github.com/gitroomhq/postiz-agent"
+    },
+    {
+      "name": "hyperframes",
+      "description": "Write videos as HTML and render them to MP4: launch films, explainers, captions, charts and 450+ ready-made blocks, by HeyGen",
+      "tags": [],
+      "repo": "heygen-com/hyperframes",
+      "homepage": "https://github.com/heygen-com/hyperframes"
     },
     {
       "name": "agent",
