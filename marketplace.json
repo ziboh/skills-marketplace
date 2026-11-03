@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-11-02T03:19:47.391Z",
-  "total": 1220,
+  "generatedAt": "2026-11-03T04:31:13.887Z",
+  "total": 1228,
   "stats": {
-    "withRepo": 1220,
+    "withRepo": 1228,
     "withoutRepo": 0
   },
   "skills": [
@@ -1068,6 +1068,14 @@
       "tags": [],
       "repo": "firecrawl/skills",
       "homepage": "https://officialskills.sh/firecrawl/skills/firecrawl-build-search",
+      "author": "Firecrawl Team"
+    },
+    {
+      "name": "firecrawl-alexandria",
+      "description": "Find and run Firecrawl Alexandria tools for structured data",
+      "tags": [],
+      "repo": "firecrawl/cli",
+      "homepage": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-alexandria",
       "author": "Firecrawl Team"
     },
     {
@@ -6974,8 +6982,8 @@
       "name": "aso-skills",
       "description": "30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API",
       "tags": [],
-      "repo": "Eronred/aso-skills",
-      "homepage": "https://github.com/Eronred/aso-skills"
+      "repo": "appeeky/aso-skills",
+      "homepage": "https://github.com/appeeky/aso-skills"
     },
     {
       "name": "wonda",
@@ -7363,6 +7371,13 @@
       "homepage": "https://github.com/coupler-io/skills"
     },
     {
+      "name": "find-quotes",
+      "description": "Find timestamped quotes and clips in YouTube and podcast transcripts",
+      "tags": [],
+      "repo": "arcmira/mcp",
+      "homepage": "https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -7608,11 +7623,11 @@
       "homepage": "https://github.com/tjboudreaux/cc-thinking-skills"
     },
     {
-      "name": "youtube-fetcher",
+      "name": "video-fetcher-to-markdown",
       "description": "Create Obsidian-ready Markdown notes from YouTube videos",
       "tags": [],
-      "repo": "JimmySadek/youtube-fetcher-to-markdown",
-      "homepage": "https://github.com/JimmySadek/youtube-fetcher-to-markdown"
+      "repo": "JimmySadek/video-fetcher-to-markdown",
+      "homepage": "https://github.com/JimmySadek/video-fetcher-to-markdown"
     },
     {
       "name": "zapier-mcp",
@@ -7713,11 +7728,11 @@
       "homepage": "https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc"
     },
     {
-      "name": "hermes-telegram-checklist",
+      "name": "hermes-agent-telegram-checklist",
       "description": "Create and manage native Telegram checklists with verified writes",
       "tags": [],
-      "repo": "bablobanov/hermes-telegram-checklist",
-      "homepage": "https://github.com/bablobanov/hermes-telegram-checklist"
+      "repo": "bablobanov/hermes-agent-telegram-checklist",
+      "homepage": "https://github.com/bablobanov/hermes-agent-telegram-checklist"
     },
     {
       "name": "presentation-skill",
@@ -7811,6 +7826,13 @@
       "homepage": "https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish"
     },
     {
+      "name": "Satori",
+      "description": "Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.",
+      "tags": [],
+      "repo": "MetcalfSolutions/Satori",
+      "homepage": "https://github.com/MetcalfSolutions/Satori"
+    },
+    {
       "name": "kilo-kit-mcp",
       "description": "Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex",
       "tags": [],
@@ -7879,6 +7901,13 @@
       "tags": [],
       "repo": "coderabbitai/skills",
       "homepage": "https://github.com/coderabbitai/skills"
+    },
+    {
+      "name": "npmscan-mcp-plugin",
+      "description": "Audit npm packages for malware and trust vulnerabilities",
+      "tags": [],
+      "repo": "salemalem/npmscan-mcp-plugin",
+      "homepage": "https://github.com/salemalem/npmscan-mcp-plugin"
     },
     {
       "name": "postgres",
@@ -8357,11 +8386,11 @@
       "homepage": "https://github.com/superdesigndev/superdesign-skill"
     },
     {
-      "name": "motion-lexicon",
-      "description": "Build and review product motion with installable React components",
+      "name": "motionboard",
+      "description": "Make product launch films from 38 Apple/Linear-style shot recipes.",
       "tags": [],
-      "repo": "Ryan-yang125/motion-lexicon",
-      "homepage": "https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon"
+      "repo": "krisyangdev/motionboard",
+      "homepage": "https://github.com/krisyangdev/motionboard/tree/main/skills/motionboard"
     },
     {
       "name": "simple-man",
@@ -8553,13 +8582,6 @@
       "homepage": "https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/task"
     },
     {
-      "name": "cutaway",
-      "description": "Record polished demo videos of web flows with Playwright",
-      "tags": [],
-      "repo": "half144/cutaway",
-      "homepage": "https://github.com/half144/cutaway"
-    },
-    {
       "name": "paranoid",
       "description": "Pentests your running app: find, prove, patch, re-verify",
       "tags": [],
@@ -8693,6 +8715,34 @@
       "homepage": "https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer"
     },
     {
+      "name": "codecall",
+      "description": "Quizzes you on agent-written code, traces flows, runs debugging drills",
+      "tags": [],
+      "repo": "GAURAV-1313/codecall",
+      "homepage": "https://github.com/GAURAV-1313/codecall/tree/main/plugins/codecall/skills/codecall"
+    },
+    {
+      "name": "mesh-gradient-generation",
+      "description": "Create editable mesh gradients with Figma and SVG workflows",
+      "tags": [],
+      "repo": "9929y/mesh-gradient-generation",
+      "homepage": "https://github.com/9929y/mesh-gradient-generation"
+    },
+    {
+      "name": "redesign-screen",
+      "description": "Redesign screens using patterns from real shipped apps",
+      "tags": [],
+      "repo": "mobbin/skills",
+      "homepage": "https://github.com/mobbin/skills/tree/main/skills/redesign-screen"
+    },
+    {
+      "name": "search",
+      "description": "Search 600k+ real app screens, flows and sections",
+      "tags": [],
+      "repo": "mobbin/skills",
+      "homepage": "https://github.com/mobbin/skills/tree/main/skills/search"
+    },
+    {
       "name": "context-fundamentals",
       "description": "Understand what context is, why it matters, and the anatomy of context in agent systems",
       "tags": [],
@@ -8756,11 +8806,11 @@
       "homepage": "https://github.com/k-kolomeitsev/data-structure-protocol"
     },
     {
-      "name": "claude-memory-kit",
+      "name": "agent-memory-kit",
       "description": "Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows",
       "tags": [],
-      "repo": "awrshift/claude-memory-kit",
-      "homepage": "https://github.com/awrshift/claude-memory-kit"
+      "repo": "awrshift/agent-memory-kit",
+      "homepage": "https://github.com/awrshift/agent-memory-kit"
     },
     {
       "name": "prompt-engineering",
@@ -8915,6 +8965,13 @@
       "tags": [],
       "repo": "JayPokale/Chisle",
       "homepage": "https://github.com/JayPokale/Chisle/tree/main/skills/chisle"
+    },
+    {
+      "name": "engramory",
+      "description": "Curated plain-Markdown long-term memory with a size-capped index",
+      "tags": [],
+      "repo": "tinqiao-oss/engramory",
+      "homepage": "https://github.com/tinqiao-oss/engramory"
     },
     {
       "name": "universal-examprep-skill",
@@ -9331,7 +9388,7 @@
     },
     {
       "name": "jgs-se-knowledge-packs",
-      "description": "71 licence-vetted systems-engineering reference packs for coding agents",
+      "description": "74 licence-vetted systems-engineering reference packs for coding agents",
       "tags": [],
       "repo": "jgsystemsconsulting/jgs-se-knowledge-packs",
       "homepage": "https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs"
