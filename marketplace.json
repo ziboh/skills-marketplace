@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-11-05T04:10:52.970Z",
-  "total": 1228,
+  "generatedAt": "2026-11-06T04:08:23.400Z",
+  "total": 1243,
   "stats": {
-    "withRepo": 1228,
+    "withRepo": 1243,
     "withoutRepo": 0
   },
   "skills": [
@@ -7378,6 +7378,20 @@
       "homepage": "https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes"
     },
     {
+      "name": "humanizer-skill",
+      "description": "Rewrites AI-sounding text, flagging 55 writing patterns",
+      "tags": [],
+      "repo": "Aboudjem/humanizer-skill",
+      "homepage": "https://github.com/Aboudjem/humanizer-skill"
+    },
+    {
+      "name": "new-term-radar",
+      "description": "Daily radar of new AI names and their search demand",
+      "tags": [],
+      "repo": "zhuyansen/new-term-radar",
+      "homepage": "https://github.com/zhuyansen/new-term-radar"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -7831,6 +7845,34 @@
       "tags": [],
       "repo": "MetcalfSolutions/Satori",
       "homepage": "https://github.com/MetcalfSolutions/Satori"
+    },
+    {
+      "name": "pachca",
+      "description": "Connect agents to Pachca and troubleshoot MCP authentication and permissions",
+      "tags": [],
+      "repo": "pachca/openapi",
+      "homepage": "https://github.com/pachca/openapi/tree/main/plugins/pachca/skills/pachca"
+    },
+    {
+      "name": "answer-me-with-html",
+      "description": "Answers hard questions as readable, self-contained HTML pages",
+      "tags": [],
+      "repo": "QingYunA/answer-me-with-html",
+      "homepage": "https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html"
+    },
+    {
+      "name": "foreign-academic-translator",
+      "description": "Translate foreign academic handouts into Chinese with subject glossaries",
+      "tags": [],
+      "repo": "Koloyaaa/foreign-academic-translator-skill",
+      "homepage": "https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator"
+    },
+    {
+      "name": "dyz-gongwen-skills",
+      "description": "Chinese official document drafting, review and GB/T 9704 formatting",
+      "tags": [],
+      "repo": "duyunzhoudyz/dyz-gongwen-skills",
+      "homepage": "https://github.com/duyunzhoudyz/dyz-gongwen-skills"
     },
     {
       "name": "kilo-kit-mcp",
@@ -8743,6 +8785,34 @@
       "homepage": "https://github.com/mobbin/skills/tree/main/skills/search"
     },
     {
+      "name": "celopedia",
+      "description": "Verified Celo contracts, protocols, MiniPay, grants, and agent tooling",
+      "tags": [],
+      "repo": "celo-org/celopedia-skills",
+      "homepage": "https://github.com/celo-org/celopedia-skills/tree/main/skills/celopedia-skill"
+    },
+    {
+      "name": "scrapingbee-cli",
+      "description": "Scrape any page, search the web, crawl sites, extract data",
+      "tags": [],
+      "repo": "ScrapingBee/scrapingbee-cli",
+      "homepage": "https://github.com/ScrapingBee/scrapingbee-cli/tree/main/.agents/skills/scrapingbee-cli"
+    },
+    {
+      "name": "unslop-skill",
+      "description": "Audit plugin for Claude Code and Codex",
+      "tags": [],
+      "repo": "0design/unslop-skill",
+      "homepage": "https://github.com/0design/unslop-skill"
+    },
+    {
+      "name": "excalidraw-cli",
+      "description": "Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams",
+      "tags": [],
+      "repo": "swiftlysingh/excalidraw-cli",
+      "homepage": "https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli"
+    },
+    {
       "name": "context-fundamentals",
       "description": "Understand what context is, why it matters, and the anatomy of context in agent systems",
       "tags": [],
@@ -9399,6 +9469,41 @@
       "tags": [],
       "repo": "KalarisLabs/research-agent-skills",
       "homepage": "https://github.com/KalarisLabs/research-agent-skills"
+    },
+    {
+      "name": "autonomous-research",
+      "description": "One topic line to a cited paper, every DOI checked",
+      "tags": [],
+      "repo": "federicodeponte/opendraft",
+      "homepage": "https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research"
+    },
+    {
+      "name": "ava",
+      "description": "Analyze files and databases, reuse definitions, render interactive charts",
+      "tags": [],
+      "repo": "antvis/AVA",
+      "homepage": "https://github.com/antvis/AVA/tree/ai/skills/ava"
+    },
+    {
+      "name": "genealogy-research-recipes",
+      "description": "Fact-checked recipes for DNA evidence and genealogy record searches",
+      "tags": [],
+      "repo": "Kinprove/genealogy-research-recipes",
+      "homepage": "https://github.com/Kinprove/genealogy-research-recipes"
+    },
+    {
+      "name": "talking-head-guide",
+      "description": "Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll",
+      "tags": [],
+      "repo": "ChatCut-Inc/agent-plugin",
+      "homepage": "https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide"
+    },
+    {
+      "name": "create-motion-graphics",
+      "description": "Create editable motion graphics for video: titles, lower thirds, overlays",
+      "tags": [],
+      "repo": "ChatCut-Inc/agent-plugin",
+      "homepage": "https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics"
     },
     {
       "name": "n8n-code-javascript",
