@@ -8,10 +8,10 @@
     "description": "Hand-picked Agent Skills from leading development teams and the community",
     "source": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md"
   },
-  "generatedAt": "2026-11-15T03:45:18.311Z",
-  "total": 1243,
+  "generatedAt": "2026-11-16T03:46:26.716Z",
+  "total": 1269,
   "stats": {
-    "withRepo": 1243,
+    "withRepo": 1269,
     "withoutRepo": 0
   },
   "skills": [
@@ -3655,14 +3655,6 @@
       "author": "OpenAI"
     },
     {
-      "name": "develop-web-game",
-      "description": "Build and test web games iteratively using Playwright with time-stepping",
-      "tags": [],
-      "repo": "openai/skills",
-      "homepage": "https://officialskills.sh/openai/skills/develop-web-game",
-      "author": "OpenAI"
-    },
-    {
       "name": "doc",
       "description": "Read, create, and edit .docx documents with formatting and layout fidelity",
       "tags": [],
@@ -3948,14 +3940,6 @@
       "tags": [],
       "repo": "openai/skills",
       "homepage": "https://officialskills.sh/openai/skills/figma-use",
-      "author": "OpenAI"
-    },
-    {
-      "name": "frontend-skill",
-      "description": "Create visually strong landing pages, websites, and app UIs with restrained composition",
-      "tags": [],
-      "repo": "openai/skills",
-      "homepage": "https://officialskills.sh/openai/skills/frontend-skill",
       "author": "OpenAI"
     },
     {
@@ -7392,6 +7376,34 @@
       "homepage": "https://github.com/zhuyansen/new-term-radar"
     },
     {
+      "name": "seo-skills",
+      "description": "17 SEO skills for audits, titles, content, and GEO",
+      "tags": [],
+      "repo": "Illyism/seo-skills",
+      "homepage": "https://github.com/Illyism/seo-skills"
+    },
+    {
+      "name": "ads-skills",
+      "description": "Create, edit and report on campaigns across eight ad platforms",
+      "tags": [],
+      "repo": "adkit/ads-skills",
+      "homepage": "https://github.com/adkit/ads-skills"
+    },
+    {
+      "name": "seo-skills",
+      "description": "Open-source SEO and GEO audits, keyword and SERP research",
+      "tags": [],
+      "repo": "everyinfra/seo-skills",
+      "homepage": "https://github.com/everyinfra/seo-skills"
+    },
+    {
+      "name": "schema-markup",
+      "description": "Write and check JSON-LD markup for a web page",
+      "tags": [],
+      "repo": "akii-technologies-ltd/akii-seo-ai-search-optimizer",
+      "homepage": "https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer/tree/main/skills/schema-markup"
+    },
+    {
       "name": "nutrient-agent-skill",
       "description": "Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.",
       "tags": [],
@@ -7873,6 +7885,27 @@
       "tags": [],
       "repo": "duyunzhoudyz/dyz-gongwen-skills",
       "homepage": "https://github.com/duyunzhoudyz/dyz-gongwen-skills"
+    },
+    {
+      "name": "mole",
+      "description": "Drive the Mole CLI to clean macOS and Windows",
+      "tags": [],
+      "repo": "tw93/Mole",
+      "homepage": "https://github.com/tw93/Mole/tree/main/skills/mole"
+    },
+    {
+      "name": "busabase",
+      "description": "Approval-first database workspace for AI agents",
+      "tags": [],
+      "repo": "busabase/busabase",
+      "homepage": "https://github.com/busabase/busabase"
+    },
+    {
+      "name": "frihet-mcp",
+      "description": "AI-native ERP skills for invoicing, CRM, expenses, and tax compliance",
+      "tags": [],
+      "repo": "Frihet-io/frihet-mcp",
+      "homepage": "https://github.com/Frihet-io/frihet-mcp/tree/main/skills/frihet-mcp"
     },
     {
       "name": "kilo-kit-mcp",
@@ -8813,6 +8846,90 @@
       "homepage": "https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli"
     },
     {
+      "name": "code-review-gate-skill",
+      "description": "Evidence-backed static code review with a JSON-derived merge gate",
+      "tags": [],
+      "repo": "kyy-logs/code-review-gate-skill",
+      "homepage": "https://github.com/kyy-logs/code-review-gate-skill"
+    },
+    {
+      "name": "ai-code-review-triage",
+      "description": "Three-pass review workflow for AI-generated pull requests",
+      "tags": [],
+      "repo": "laulauraluo/ai-code-review-triage",
+      "homepage": "https://github.com/laulauraluo/ai-code-review-triage"
+    },
+    {
+      "name": "agentic-design-systems",
+      "description": "Scaffolds AI-readable design systems for agents",
+      "tags": [],
+      "repo": "thedesignproject/agent-skills",
+      "homepage": "https://github.com/thedesignproject/agent-skills/tree/main/skills/agentic-design-systems"
+    },
+    {
+      "name": "skills",
+      "description": "Residential proxies, Google search scraping, proxy benchmarking and troubleshooting",
+      "tags": [],
+      "repo": "nodemaven/skills",
+      "homepage": "https://github.com/nodemaven/skills"
+    },
+    {
+      "name": "kubegap",
+      "description": "Read-only Kubernetes operations gap audit with Markdown report",
+      "tags": [],
+      "repo": "KyungHwanKim-devs/kubegap",
+      "homepage": "https://github.com/KyungHwanKim-devs/kubegap"
+    },
+    {
+      "name": "langchain-agent-skills",
+      "description": "LangChain, LangGraph, LangSmith and Deep Agents development skills",
+      "tags": [],
+      "repo": "soba-labs/langchain-agent-skills",
+      "homepage": "https://github.com/soba-labs/langchain-agent-skills"
+    },
+    {
+      "name": "assh",
+      "description": "SSH over persistent tmux sessions with paginated remote output",
+      "tags": [],
+      "repo": "izzzzzi/agent-assh",
+      "homepage": "https://github.com/izzzzzi/agent-assh/tree/main/skills/assh"
+    },
+    {
+      "name": "sdk-generation-skills",
+      "description": "Generate SDKs, MCP servers, and Terraform providers from OpenAPI specs",
+      "tags": [],
+      "repo": "speakeasy-api/sdk-generation-skills",
+      "homepage": "https://github.com/speakeasy-api/sdk-generation-skills"
+    },
+    {
+      "name": "buddy",
+      "description": "Deploy apps, run pipelines and expose ports with Buddy",
+      "tags": [],
+      "repo": "buddy/buddy-plugin",
+      "homepage": "https://github.com/buddy/buddy-plugin/tree/main/skills/buddy"
+    },
+    {
+      "name": "nightshift",
+      "description": "Punch list, clock-out gate and receipts for long agent runs",
+      "tags": [],
+      "repo": "orwa-mahmoud/nightshift",
+      "homepage": "https://github.com/orwa-mahmoud/nightshift"
+    },
+    {
+      "name": "skills",
+      "description": "Write, run, and repair Momentic browser and mobile E2E tests",
+      "tags": [],
+      "repo": "momentic-ai/skills",
+      "homepage": "https://github.com/momentic-ai/skills"
+    },
+    {
+      "name": "checking-a-page",
+      "description": "Check a web page by driving every control in Chromium",
+      "tags": [],
+      "repo": "awss1i/assay",
+      "homepage": "https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page"
+    },
+    {
       "name": "context-fundamentals",
       "description": "Understand what context is, why it matters, and the anatomy of context in agent systems",
       "tags": [],
@@ -8982,10 +9099,24 @@
     },
     {
       "name": "deja-history",
-      "description": "Searches your own past sessions across 20 coding agents",
+      "description": "Searches your own past sessions across 43 coding agents",
       "tags": [],
       "repo": "vshulcz/deja-vu",
       "homepage": "https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history"
+    },
+    {
+      "name": "deja-search",
+      "description": "CLI session recall and blame across 43 coding agents",
+      "tags": [],
+      "repo": "vshulcz/deja-vu",
+      "homepage": "https://github.com/vshulcz/deja-vu/tree/main/skills/deja-search"
+    },
+    {
+      "name": "deja-reflect",
+      "description": "Distill recurring agent fixes into project rules files",
+      "tags": [],
+      "repo": "vshulcz/deja-vu",
+      "homepage": "https://github.com/vshulcz/deja-vu/tree/main/skills/deja-reflect"
     },
     {
       "name": "cavemenko",
@@ -9042,6 +9173,13 @@
       "tags": [],
       "repo": "tinqiao-oss/engramory",
       "homepage": "https://github.com/tinqiao-oss/engramory"
+    },
+    {
+      "name": "aigent-os",
+      "description": "Claude Code auto-clear harness with capsule memory",
+      "tags": [],
+      "repo": "wrg32786/aigent-os",
+      "homepage": "https://github.com/wrg32786/aigent-os"
     },
     {
       "name": "universal-examprep-skill",
@@ -9504,6 +9642,48 @@
       "tags": [],
       "repo": "ChatCut-Inc/agent-plugin",
       "homepage": "https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics"
+    },
+    {
+      "name": "skills",
+      "description": "Solidity AI audit, threat model, fuzz suites.",
+      "tags": [],
+      "repo": "pashov/skills",
+      "homepage": "https://github.com/pashov/skills"
+    },
+    {
+      "name": "motion-graphics-music-video-skill-noimage",
+      "description": "Create music videos with native Swift graphics on macOS",
+      "tags": [],
+      "repo": "makevoid/motion-graphics-music-video-skill-noimage",
+      "homepage": "https://github.com/makevoid/motion-graphics-music-video-skill-noimage"
+    },
+    {
+      "name": "evident-charts",
+      "description": "Makes and critiques charts and checks the rendered image",
+      "tags": [],
+      "repo": "rhiever/evident-charts",
+      "homepage": "https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts"
+    },
+    {
+      "name": "vn-law-check",
+      "description": "Audit websites and apps against Vietnamese law",
+      "tags": [],
+      "repo": "mhfed/vn-law-check",
+      "homepage": "https://github.com/mhfed/vn-law-check"
+    },
+    {
+      "name": "ru-marketplace-mcp",
+      "description": "15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys",
+      "tags": [],
+      "repo": "Vladimir-Human/ru-marketplace-mcp",
+      "homepage": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
+    },
+    {
+      "name": "everyinfra-agent-plugins",
+      "description": "Public data from 100+ platforms, web search, CAPTCHA solving",
+      "tags": [],
+      "repo": "everyinfra/everyinfra-agent-plugins",
+      "homepage": "https://github.com/everyinfra/everyinfra-agent-plugins"
     },
     {
       "name": "n8n-code-javascript",
